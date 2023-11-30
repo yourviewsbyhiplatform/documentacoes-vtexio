@@ -4,7 +4,15 @@
 
 Existem alguns passos muito importantes a serem seguidos para que a instalação do aplicativo da Yourviews seja executada da maneira correta!
 
-Antes de tudo, é importante ressaltar que é necessário possuir o CLI da VTEX IO instalado e atualizado em sua máquina, para instalar o CLI da VTEX IO, acesse o link abaixo:
+### Liberação do Acesso à yourviews
+
+Antes de instalar nosso aplicativo, é importante liberar os devidos acessos para a yourviews, para que seja possível fornecemos um suporte de qualidade, para liberar os devidos acessos, acesso o link abaixo:
+
+[https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-install](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-install)
+
+### Instalação do CLI da VTEX
+
+É importante ressaltar que é necessário possuir o CLI da VTEX IO instalado e atualizado em sua máquina, para instalar o CLI da VTEX IO, acesse o link abaixo:
 
 [https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-install](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-install)
 
