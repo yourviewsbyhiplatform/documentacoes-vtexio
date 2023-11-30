@@ -21,3 +21,4 @@ Embora o bloco de testemunhos seja comumente inserido na página inicial isso n�
 **Pronto!**
 
 O bloco dos testemunhos foi instalado com sucesso!
+![Instalação do bloco Exemplo](https://i.imgur.com/uHUeqls.png)
