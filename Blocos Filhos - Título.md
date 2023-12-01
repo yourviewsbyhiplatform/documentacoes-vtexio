@@ -45,7 +45,7 @@ A propriedade `className` recebe um texto, esse texto no caso será usado como u
 
 ### Exemplo de uso:
 
-```json
+```jsonc
 // yourviews-custom.jsonc
 "yv-testimonials": {
   "props": {
@@ -57,7 +57,7 @@ A propriedade `className` recebe um texto, esse texto no caso será usado como u
   ]
 },
 ```
-```json
+```jsonc
 // yourviews-custom.jsonc
 "yv-title#testimonial": {
   "props": {
@@ -79,5 +79,5 @@ A propriedade `className` recebe um texto, esse texto no caso será usado como u
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTI1MDUxNzg4XX0=
+eyJoaXN0b3J5IjpbLTIwNzI1ODg0MF19
 -->
