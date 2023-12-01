@@ -45,13 +45,20 @@ O bloco de testemunhos aceita alguns blocos filhos, são eles:
  - `yv-title` (Título) ([clique aqui](a) para acessar a documentação) 
  - `yv-testimonials-content` (Conteúdo) ([clique aqui](a) para acessar a documentação) 
 
+### Propriedades (props)
 
+O bloco de testemunhos pode receber uma propriedade importantes para a sua personalização.
+
+A propriedade `slidesToShow` recebe um quatro informações, que especificam quantos slides serão exibidos por tamanho de tela, são elas:
+
+ - `tinyMobile`
+ - ``
 
 <br>
 <br>
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMzA4ODk0NiwtNjU3NjcyNjYyLC05OT
-I3NjQwOCw3OTUwNTkyNDMsMTAwMjIzMzI0NV19
+eyJoaXN0b3J5IjpbLTE1NDU0NDQ1MzMsLTY1NzY3MjY2MiwtOT
+kyNzY0MDgsNzk1MDU5MjQzLDEwMDIyMzMyNDVdfQ==
 -->
