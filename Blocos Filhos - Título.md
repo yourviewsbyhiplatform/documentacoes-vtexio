@@ -54,7 +54,7 @@ O bloco de título pode receber duas propriedades importantes para a personaliza
     ...
   },
   "children": [
-+    "yv-title#testimonial", 
+    "yv-title#testimonial", 
     ...
   ]
 },
@@ -79,5 +79,5 @@ O bloco de título pode receber duas propriedades importantes para a personaliza
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjM1OTI5ODNdfQ==
+eyJoaXN0b3J5IjpbNjMwMzQ3OTBdfQ==
 -->
