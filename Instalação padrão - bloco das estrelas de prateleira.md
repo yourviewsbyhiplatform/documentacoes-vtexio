@@ -12,7 +12,7 @@ Ao seguir estes passos, você estará preparado para instalar e configurar o blo
    ### Nome do bloco
  Conhecido como "yv-product-rating-inline". Esse bloco é projetado para mostrar as estrelas de avaliação nas prateleiras ou vitrines do site, oferecendo aos clientes uma visão rápida da popularidade e qualidade dos produtos ainda na fase de navegação inicial. Este recurso é especialmente útil nas páginas onde vários produtos são exibidos, como a página inicial ou categorias de produtos.
  ### Localização do bloco
- Normalmente, o bloco "yv-product-rating-inline" é inserido no bloco pai product-summary.shelf. Esta é a configuração padrão para exibir as avaliações nas prateleiras ou vitrines do site, comumente localizadas na página inicial da loja.
+ Normalmente, o bloco `yv-product-rating-inline` é inserido no bloco pai product-summary.shelf. Esta é a configuração padrão para exibir as avaliações nas prateleiras ou vitrines do site, comumente localizadas na página inicial da loja.
  
 
     “yv-product-rating-inline”
@@ -23,5 +23,5 @@ Ao seguir estes passos, você estará preparado para instalar e configurar o blo
 O bloco das estrelas de prateleira foi instalado com sucesso!
 ![Instalação do bloco Exemplo](https://imgur.com/7LVKo8H.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzQ3Nzc4NThdfQ==
+eyJoaXN0b3J5IjpbMTkzOTYzOTI2NCwtMjEzNDc3Nzg1OF19
 -->
