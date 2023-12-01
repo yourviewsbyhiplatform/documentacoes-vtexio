@@ -58,10 +58,18 @@ Link: [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/
 #### Estrelas de prateleiras (quickreviews)
 Link: [clique aqui](#)
 
+### Blocos Extras
+
+#### Estrelas de prateleiras (quickreviews)
+Link: [clique aqui](#)
+
+#### Estrelas de prateleiras (quickreviews)
+Link: [clique aqui](#)
+
 <br>
 <br>
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MDU1MDYyNF19
+eyJoaXN0b3J5IjpbLTE0ODQ4NTg5MzgsMjA3MDU1MDYyNF19
 -->
