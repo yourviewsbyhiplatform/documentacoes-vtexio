@@ -74,14 +74,12 @@ A propriedade `slidesToShow` recebe um quatro informações, que especificam qua
   ]
 },
 ```
-```json
+```diff
 // home.jsonc
 "store.home": {
     "blocks": [
       ...
-      "rich-text#link",
-      "newsletter",
-      "yv-testimonials"
++     "yv-testimonials"
     ]
   },
 ```
@@ -91,6 +89,5 @@ A propriedade `slidesToShow` recebe um quatro informações, que especificam qua
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTk1NTYzNDkxLC02NTc2NzI2NjIsLTk5Mj
-c2NDA4LDc5NTA1OTI0MywxMDAyMjMzMjQ1XX0=
+eyJoaXN0b3J5IjpbMTM0ODQ4NjY0N119
 -->
