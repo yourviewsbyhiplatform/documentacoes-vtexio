@@ -34,5 +34,5 @@ O bloco dos testemunhos foi instalado com sucesso!
 ![Instalação do bloco Exemplo](https://i.imgur.com/uHUeqls.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMjIzMzI0NSwtODc0NTQ2NzU0XX0=
+eyJoaXN0b3J5IjpbMTAwMjIzMzI0NV19
 -->
