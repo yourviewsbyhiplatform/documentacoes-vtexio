@@ -79,5 +79,5 @@ O bloco de título pode receber duas propriedades importantes para a personaliza
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2Nzc1MjM5LDYzMDM0NzkwXX0=
+eyJoaXN0b3J5IjpbMTI2Nzc1MjM5XX0=
 -->
