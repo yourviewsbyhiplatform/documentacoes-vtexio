@@ -83,7 +83,7 @@ A propriedade `slidesToShow` recebe um quatro informações, que especificam qua
 "store.home": {
     "blocks": [
       ...
-+     "yv-testimonials"
+     "yv-testimonials"
     ]
   },
 ```
@@ -93,5 +93,5 @@ A propriedade `slidesToShow` recebe um quatro informações, que especificam qua
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTMxMzI0MV19
+eyJoaXN0b3J5IjpbLTYzODgzNjIzNCwtNjYxMzEzMjQxXX0=
 -->
