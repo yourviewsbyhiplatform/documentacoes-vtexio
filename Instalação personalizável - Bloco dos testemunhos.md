@@ -93,5 +93,5 @@ A propriedade `slidesToShow` recebe um quatro informações, que especificam qua
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzODgzNjIzNCwtNjYxMzEzMjQxXX0=
+eyJoaXN0b3J5IjpbLTYzODgzNjIzNF19
 -->
