@@ -23,7 +23,7 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
 O bloco `yv-title`, tem como papel, apresentar um título dentro do bloco pai.
 
 ### Contextos
-Normalmente quando usamos esse bloco, ele é usado mais de uma vez, porém na vtex io, não podemos declarar o mesmo bloco mais de uma vez, portanto recomendamos que você coloque uma `hashtag` após o nome do bloco para separar esse bloco filho para cada contexto diferente, exemplo:
+Normalmente quando usamos esse bloco, ele é usado mais de uma vez, porém na vtex io, não podemos declarar o mesmo bloco mais de uma vez, portanto recomendamos que você coloque uma `hashtag` com um nome após o nome do bloco para separar esse bloco filho para cada contexto diferente, exemplo:
 
 ```json
 "yv-title#reviews": {
@@ -83,5 +83,5 @@ A propriedade `className` recebe um texto, esse texto no caso será usado como u
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDI2ODEwNzksMTMxMzI0MTI2Nl19
+eyJoaXN0b3J5IjpbMTE0MjIzOTMzNV19
 -->
