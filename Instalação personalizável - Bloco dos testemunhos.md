@@ -32,11 +32,13 @@ Embora o bloco de testemunhos seja comumente inserido na página inicial isso n�
 
 O bloco `yv-testimonials` pode ser personalizado recebendo alguns blocos filhos que irão compor a sua estrutura, isso é útil para quem deseja criar sua própria estrutura de testemunhos, segue abaixo dois prints de um testemunho padrão e um personalizado:
 
-Bloco padrão no template vtexio:
+Bloco de testemunhos padrão:
 ![](https://i.imgur.com/As4ZBwO.png)
 
-Bloco personalizado pela loja:
+Bloco de testemunhos personalizado pela loja:
+![](https://i.imgur.com/W5QSqRd.png)
 
+Para a personalização do bloco de testemunhos, 
 
 ### Finalização
 
@@ -46,6 +48,6 @@ O bloco dos testemunhos foi instalado com sucesso!
 ![Instalação do bloco Exemplo](https://i.imgur.com/uHUeqls.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5Mjc2NDA4LDc5NTA1OTI0MywxMDAyMj
-MzMjQ1XX0=
+eyJoaXN0b3J5IjpbLTQyMjU5NzIzMCwtOTkyNzY0MDgsNzk1MD
+U5MjQzLDEwMDIyMzMyNDVdfQ==
 -->
