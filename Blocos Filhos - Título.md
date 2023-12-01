@@ -47,7 +47,7 @@ O bloco de título pode receber duas propriedades importantes para a personaliza
 
 ### Exemplo de uso:
 
-```diff
+```jsonc
 // yourviews-custom.jsonc
 "yv-testimonials": {
   "props": {
@@ -59,12 +59,12 @@ O bloco de título pode receber duas propriedades importantes para a personaliza
   ]
 },
 
-+"yv-title#testimonial": {
-+  "props": {
-+    "text": "Avaliações da nossa loja"
-+    "className": "testimonialsTitle"
-+  }
-+},
+"yv-title#testimonial": {
+  "props": {
+    "text": "Avaliações da nossa loja"
+    "className": "testimonialsTitle"
+  }
+},
 ```
 ```css
 /* yourviews.yourviewsreviews.css */
@@ -79,5 +79,5 @@ O bloco de título pode receber duas propriedades importantes para a personaliza
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNTcxMzkzOSwxMTQyMjM5MzM1XX0=
+eyJoaXN0b3J5IjpbLTIwNjM1OTI5ODMsMTE0MjIzOTMzNV19
 -->
