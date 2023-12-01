@@ -41,12 +41,12 @@ Esse bloco não aceita nenhuma propriedade específica.
   ...
   "children": [
     ...
-+    "yv-testimonials-content"
+    "yv-testimonials-content"
   ]
 },
-+ "yv-testimonials-content": {
-+   "children": ["yv-flex#slide"]
-+ },
+ "yv-testimonials-content": {
+   "children": ["yv-flex#slide"]
+ },
 ```
 
 <br>
@@ -55,5 +55,5 @@ Esse bloco não aceita nenhuma propriedade específica.
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2OTk4OTU4NV19
+eyJoaXN0b3J5IjpbNTY3MzA4NTAzLC05Njk5ODk1ODVdfQ==
 -->
