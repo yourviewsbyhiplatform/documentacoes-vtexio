@@ -60,7 +60,7 @@ A propriedade `slidesToShow` recebe um quatro informações, que especificam qua
 
 ### Exemplo de uso:
 
-```json
+```jsonc
 // yourviews-custom.jsonc
 "yv-testimonials": {
   "props": {
@@ -91,5 +91,5 @@ A propriedade `slidesToShow` recebe um quatro informações, que especificam qua
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgzNzAzNTE4XX0=
+eyJoaXN0b3J5IjpbNDM0ODM1NzgzXX0=
 -->
