@@ -44,7 +44,7 @@ Para a personalização do bloco de testemunhos, pode-se adicionar alguns blocos
 
 O bloco de testemunhos aceita alguns blocos filhos, são eles:
 
- - `yv-title` (Título) [(documentação)](#)([clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20T%C3%ADtulo.md) para acessar a documentação) 
+ - `yv-title` (Título) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20T%C3%ADtulo.md)
  - `yv-testimonials-content` (Conteúdo) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Conte%C3%BAdo%20Testemunhos.md)
  - `yv-flex` (Flex Box) [(documentação)](#)
  - `yv-rich-text` (Texto) [(documentação)](#)
@@ -93,5 +93,5 @@ A propriedade `slidesToShow` recebe um quatro informações, que especificam qua
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMjI4NjI4NiwtNjM4ODM2MjM0XX0=
+eyJoaXN0b3J5IjpbMjczNTg3NTUwXX0=
 -->
