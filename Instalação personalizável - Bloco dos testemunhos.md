@@ -46,6 +46,7 @@ O bloco de testemunhos aceita alguns blocos filhos, são eles:
 
  - `yv-title` (Título) ([clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20T%C3%ADtulo.md) para acessar a documentação) 
  - `yv-testimonials-content` (Conteúdo) ([clique aqui](a) para acessar a documentação) 
+ - `yv-flex` (Flex Box) ([clique aqui](a) para acessar a documentação) 
 
 #### Propriedades (props)
 
@@ -91,5 +92,5 @@ A propriedade `slidesToShow` recebe um quatro informações, que especificam qua
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0ODM1NzgzXX0=
+eyJoaXN0b3J5IjpbLTQ5NjAwMjc4MCw0MzQ4MzU3ODNdfQ==
 -->
