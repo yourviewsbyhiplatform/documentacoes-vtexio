@@ -54,13 +54,7 @@ O bloco de flex box pode receber diversas propriedades importantes para a person
     "className": "testimonial-flex"
   },
   "children": [
-    "yv-rating-stars",
-    "yv-date",
-    "yv-user-image",
-    "yv-user-name#testimonial",
-    "yv-user-localization#testimonial",
-    "yv-comment",
-    "yv-store-ratings"
+    ...
   ]
 },
 ```
@@ -84,5 +78,5 @@ O bloco de flex box pode receber diversas propriedades importantes para a person
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzUxNzE4MzY1XX0=
+eyJoaXN0b3J5IjpbLTQ4ODc2MzI0NF19
 -->
