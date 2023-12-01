@@ -8,7 +8,7 @@ Existem alguns passos muito importantes a serem seguidos para que a instalação
 
 Antes de instalar nosso aplicativo, é importante liberar os devidos acessos para a yourviews, para que seja possível fornecemos um suporte de qualidade, para liberar os devidos acessos, acesso o link abaixo:
 
-[https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-install](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-install)
+[https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/docs/Libera%C3%A7%C3%A3o%20de%20Acessos.md](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/docs/Libera%C3%A7%C3%A3o%20de%20Acessos.md)
 
 ### Instalação do CLI da VTEX
 
