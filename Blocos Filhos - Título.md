@@ -6,10 +6,10 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
 
 ### Blocos pais aceitos:
 
- - `yv-testimonials`
- - `yv-reviews`
- - `yv-questions-and-answers`
- - `yv-flex`
+ - `yv-testimonials` [(documentação)](#)
+ - `yv-reviews` [(documentação)](#)
+ - `yv-questions-and-answers` [(documentação)](#)
+ - `yv-flex` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Flex%20Box.md)
 
 ### Blocos filhos aceitos:
 
@@ -79,5 +79,5 @@ O bloco de título pode receber duas propriedades importantes para a personaliza
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwMzQ3OTBdfQ==
+eyJoaXN0b3J5IjpbMTY1MTQ1MTE4MSw2MzAzNDc5MF19
 -->
