@@ -42,12 +42,8 @@ Normalmente quando usamos esse bloco, ele é usado mais de uma vez, porém na vt
 
 O bloco de título pode receber duas propriedades importantes para a personalização, são elas:
 
- - `text`
- - `className`
-
-A propriedade `text` recebe um texto, esse texto é o texto que será apresentado pelo bloco na renderização da página.
-
-A propriedade `className` recebe um texto, esse texto no caso será usado como uma class no css handlers da vtex para personalizações no CSS.
+ - `text` - Texto que será exibido pelo componente
+ - `className` - Texto para ser usado como classe do componente (handlers)
 
 ### Exemplo de uso:
 
@@ -83,5 +79,5 @@ A propriedade `className` recebe um texto, esse texto no caso será usado como u
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MjIzOTMzNV19
+eyJoaXN0b3J5IjpbMTUyNTcxMzkzOSwxMTQyMjM5MzM1XX0=
 -->
