@@ -45,11 +45,13 @@ O bloco de testemunhos aceita alguns blocos filhos, são eles:
  - `yv-title` (Título) ([clique aqui](a) para acessar a documentação) 
  - `yv-testimonials-content` (Conteúdo) ([clique aqui](a) para acessar a documentação) 
 
+
+
 <br>
 <br>
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NzY3MjY2MiwtOTkyNzY0MDgsNzk1MD
-U5MjQzLDEwMDIyMzMyNDVdfQ==
+eyJoaXN0b3J5IjpbLTYzMzA4ODk0NiwtNjU3NjcyNjYyLC05OT
+I3NjQwOCw3OTUwNTkyNDMsMTAwMjIzMzI0NV19
 -->
