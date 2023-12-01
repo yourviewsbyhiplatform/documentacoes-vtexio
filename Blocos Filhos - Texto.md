@@ -1,4 +1,4 @@
-# Blocos Filhos - Flex Box
+# Blocos Filhos - Texto
 
 ## Importante
 
@@ -58,5 +58,5 @@ O bloco de flex box pode receber diversas propriedades importantes para a person
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNzY2ODA3OF19
+eyJoaXN0b3J5IjpbOTYyOTgyNDEwXX0=
 -->
