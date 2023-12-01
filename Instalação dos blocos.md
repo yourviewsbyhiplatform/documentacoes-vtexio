@@ -58,12 +58,12 @@ Link: [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/
 #### Estrelas de prateleiras (quickreviews)
 Link: [clique aqui](#)
 
-### Blocos Extras
+### Blocos Extras para personalização
 
-#### Estrelas de prateleiras (quickreviews)
+#### Flex Box (yv-flex)
 Link: [clique aqui](#)
 
-#### Estrelas de prateleiras (quickreviews)
+#### Texto (yv-rich-text)
 Link: [clique aqui](#)
 
 <br>
@@ -71,5 +71,5 @@ Link: [clique aqui](#)
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODQ4NTg5MzgsMjA3MDU1MDYyNF19
+eyJoaXN0b3J5IjpbODIzNTg5NjQ2XX0=
 -->
