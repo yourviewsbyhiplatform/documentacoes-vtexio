@@ -35,7 +35,8 @@ O bloco `yv-testimonials` pode ser personalizado recebendo alguns blocos filhos 
 Bloco padrão no template vtexio:
 ![](https://i.imgur.com/As4ZBwO.png)
 
-Bloco personal
+Bloco personalizado pela loja:
+
 
 ### Finalização
 
@@ -45,6 +46,6 @@ O bloco dos testemunhos foi instalado com sucesso!
 ![Instalação do bloco Exemplo](https://i.imgur.com/uHUeqls.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDA1ODIyMDEsNzk1MDU5MjQzLDEwMD
-IyMzMyNDVdfQ==
+eyJoaXN0b3J5IjpbLTk5Mjc2NDA4LDc5NTA1OTI0MywxMDAyMj
+MzMjQ1XX0=
 -->
