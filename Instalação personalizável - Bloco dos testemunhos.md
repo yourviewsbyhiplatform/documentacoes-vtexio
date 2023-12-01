@@ -40,12 +40,14 @@ Bloco de testemunhos personalizado pela loja:
 
 Para a personalização do bloco de testemunhos, pode-se adicionar alguns blocos filhos para compor cada elemento interno que deseja que seja exibido, segue abaixo uma lista com cada bloco filho e suas devidas informações.
 
+#### Blocos filhos (children)
+
 O bloco de testemunhos aceita alguns blocos filhos, são eles:
 
  - `yv-title` (Título) ([clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20T%C3%ADtulo.md) para acessar a documentação) 
  - `yv-testimonials-content` (Conteúdo) ([clique aqui](a) para acessar a documentação) 
 
-### Propriedades (props)
+#### Propriedades (props)
 
 O bloco de testemunhos pode receber uma propriedade importantes para a sua personalização.
 
@@ -89,5 +91,5 @@ A propriedade `slidesToShow` recebe um quatro informações, que especificam qua
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTEzMzExMjRdfQ==
+eyJoaXN0b3J5IjpbMzgzNzAzNTE4XX0=
 -->
