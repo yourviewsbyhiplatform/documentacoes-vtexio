@@ -61,7 +61,7 @@ Link: [clique aqui](#)
 ### Blocos Extras para personalização
 
 #### Flex Box (yv-flex)
-Link: [clique aqui](#)
+Link: [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Flex%20Box.md)
 
 #### Texto (yv-rich-text)
 Link: [clique aqui](#)
@@ -71,5 +71,5 @@ Link: [clique aqui](#)
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIzNTg5NjQ2XX0=
+eyJoaXN0b3J5IjpbMTgyNTM0ODU4N119
 -->
