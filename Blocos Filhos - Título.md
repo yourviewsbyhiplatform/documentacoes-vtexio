@@ -2,14 +2,18 @@
 
 ## Importante
 
-Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado pode receber esse bloco como filho.
+Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado pode receber esse bloco como filho e quais são seus blocos filhos aceitos!
 
-Blocos pais aceitos:
+### Blocos pais aceitos:
 
  - `yv-testimonials`
  - `yv-reviews`
  - `yv-questions-and-answers`
  - `yv-flex`
+
+### Blocos filhos aceitos:
+
+- Nenhum
  
  
 ## Usabilidade
@@ -78,5 +82,5 @@ A propriedade `className` recebe um texto, esse texto no caso será usado como u
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTk1OTU1MjddfQ==
+eyJoaXN0b3J5IjpbMTk5MTMzNzM0OSwtMTcxOTU5NTUyN119
 -->
