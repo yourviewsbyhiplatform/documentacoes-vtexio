@@ -20,5 +20,5 @@ Antes de prosseguir com a instalação do bloco das estrelas de prateleira, é e
 O bloco das estrelas de prateleira foi instalado com sucesso!
 ![Instalação do bloco Exemplo](https://imgur.com/7LVKo8H.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDY1Mzk3MzMsMTU5NTkzNjYyNF19
+eyJoaXN0b3J5IjpbLTEyMDY1Mzk3MzNdfQ==
 -->
