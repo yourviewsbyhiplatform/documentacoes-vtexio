@@ -2,9 +2,9 @@
 
 ## Importante
 
-Para usar o bloco titulo, é necessário verificar se o bloco pai a ser usado pode receber esse bloco como filho.
+Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado pode receber esse bloco como filho.
 
-Os blocos que podem receber esse bloco de título como filho são:
+Os blocos que podem receber esse bloco como filho são:
 
  - `yv-testimonials`
  - `yv-reviews`
@@ -77,5 +77,5 @@ A propriedade `className` recebe um texto, esse texto no caso será usado como u
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NTYxNzg2NV19
+eyJoaXN0b3J5IjpbLTEzMTM4NTcwMDIsLTg4NTYxNzg2NV19
 -->
