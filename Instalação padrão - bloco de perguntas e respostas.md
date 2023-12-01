@@ -11,9 +11,9 @@ Ao seguir estes passos, você estará preparado para instalar e configurar o blo
 
  ## Instalação
    ### Nome do bloco
-   Conhecido como yv-product-questions-and-answers". Esse bloco é essencial para exibir perguntas e respostas relacionadas a produtos específicos, fornecendo um canal direto de comunicação entre os clientes e a loja. É uma ferramenta poderosa para aumentar a transparência, esclarecer dúvidas dos clientes e auxiliar na decisão de compra.
+   Conhecido como `yv-product-questions-and-answers`. Esse bloco é essencial para exibir perguntas e respostas relacionadas a produtos específicos, fornecendo um canal direto de comunicação entre os clientes e a loja. É uma ferramenta poderosa para aumentar a transparência, esclarecer dúvidas dos clientes e auxiliar na decisão de compra.
    ### Localização do bloco
-   O bloco "yv-product-questions-and-answers" é normalmente posicionado no bloco pai **store.product**, que corresponde à página de cada produto individual. Este posicionamento permite que as perguntas e respostas dos clientes estejam diretamente associadas ao produto relevante.
+   O bloco `yv-product-questions-and-answers` é normalmente posicionado no bloco pai **store.product**, que corresponde à página de cada produto individual. Este posicionamento permite que as perguntas e respostas dos clientes estejam diretamente associadas ao produto relevante.
    
 
     "yv-product-questions-and-answers"
@@ -26,5 +26,5 @@ Ao seguir estes passos, você estará preparado para instalar e configurar o blo
 O bloco de perguntas e respostas foi instalado com sucesso!
 ![Instalação do bloco Exemplo](https://imgur.com/8ImokcO.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDcyMDA0LC0xOTMxMjM2NTk4XX0=
+eyJoaXN0b3J5IjpbMTY0MzQyNTBdfQ==
 -->
