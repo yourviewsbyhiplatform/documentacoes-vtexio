@@ -104,7 +104,7 @@ O acesso para a yourviews está pronto!
 **Mas calma!**
 
 Agora o próximo passo é instalar o app da yourviews na vtex io!
-Para isso, [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/docs/Instalac%CC%A7a%CC%83o%20do%20App%20Yourviews%20na%20Vtex%20Io.md), para ver o passo a passo de como instalar o nosso app na vtex.
+Para isso, [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instalac%CC%A7a%CC%83o%20do%20App%20Yourviews%20na%20Vtex%20Io.md), para ver o passo a passo de como instalar o nosso app na vtex.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NTg4NDEzN119
+eyJoaXN0b3J5IjpbLTEyODYzOTU3MDNdfQ==
 -->
