@@ -56,9 +56,7 @@ A propriedade `className` recebe um texto, esse texto no caso será usado como u
     ...
   ]
 },
-```
-```jsonc
-// yourviews-custom.jsonc
+
 "yv-title#testimonial": {
   "props": {
     "text": "Avaliações da nossa loja"
@@ -79,5 +77,5 @@ A propriedade `className` recebe um texto, esse texto no caso será usado como u
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzI1ODg0MF19
+eyJoaXN0b3J5IjpbLTg4NTYxNzg2NV19
 -->
