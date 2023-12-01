@@ -51,14 +51,16 @@ O bloco de testemunhos pode receber uma propriedade importantes para a sua perso
 
 A propriedade `slidesToShow` recebe um quatro informações, que especificam quantos slides serão exibidos por tamanho de tela, são elas:
 
- - `tinyMobile`
- - ``
+ - `tinyMobile` (para telas menores que 375px)
+ - `mobile` (para telas menores que 375px)
+ - `desktop` (para telas menores que 375px)
+ - `bigDesktop` (para telas menores que 375px)
 
 <br>
 <br>
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDU0NDQ1MzMsLTY1NzY3MjY2MiwtOT
+eyJoaXN0b3J5IjpbLTE3MDI0NzMxNjUsLTY1NzY3MjY2MiwtOT
 kyNzY0MDgsNzk1MDU5MjQzLDEwMDIyMzMyNDVdfQ==
 -->
