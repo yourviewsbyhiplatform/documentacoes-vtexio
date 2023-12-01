@@ -9,7 +9,7 @@ Existem alguns passos muito importantes a serem seguidos antes de efetuar a inse
 ### Instalação do App Yourviews na Vtex Io
 
 Um dos requisitos obrigatórios é possui o app da yourviews instalado na sua loja vtexio, para isso, acesse o link abaixo para seguir com o passo a passo de instalação:
-[https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/docs/Instalac%CC%A7a%CC%83o%20do%20App%20Yourviews%20na%20Vtex%20Io.md](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/docs/Instalac%CC%A7a%CC%83o%20do%20App%20Yourviews%20na%20Vtex%20Io.md)
+[https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instalac%CC%A7a%CC%83o%20do%20App%20Yourviews%20na%20Vtex%20Io.md](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instalac%CC%A7a%CC%83o%20do%20App%20Yourviews%20na%20Vtex%20Io.md)
 
 ## Instruções de inserção dos blocos
 
@@ -63,5 +63,5 @@ Link:
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjY5OTMzNThdfQ==
+eyJoaXN0b3J5IjpbNjYyNDg0NjZdfQ==
 -->
