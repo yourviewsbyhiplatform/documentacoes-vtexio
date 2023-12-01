@@ -2,11 +2,12 @@
 ## Requisitos
 Antes de prosseguir com a instalação do bloco dos testemunhos, é essencial que você tenha completado alguns passos preliminares fundamentais para garantir uma integração bem-sucedida e eficiente.
 
+
  ### Instalação do App Yourviews na Vtex Io
 
 Um dos requisitos obrigatórios é possuir o app da yourviews instalado na sua loja vtexio, para isso, acesse o link abaixo para seguir com o passo a passo de instalação:  [https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instalac%CC%A7a%CC%83o%20do%20App%20Yourviews%20na%20Vtex%20Io.md](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instalac%CC%A7a%CC%83o%20do%20App%20Yourviews%20na%20Vtex%20Io.md)
 
-Ao seguir estes passos, você estará preparado para instalar e configurar o bloco noa VTEX IO de maneira eficaz, aproveitando ao máximo as funcionalidades oferecidas.
+Ao seguir estes passos, você estará preparado para instalar e configurar o bloco na VTEX IO de maneira eficaz, aproveitando ao máximo as funcionalidades oferecidas.
  ## Instalação
  ### Nome do bloco
 Conhecido como "yv-testimonials", desempenha um papel crucial na experiência de compra online. Esse bloco é especificamente projetado para apresentar as avaliações e opiniões dos clientes sobre a loja, após a conclusão de uma compra. 
@@ -26,5 +27,5 @@ O bloco dos testemunhos foi instalado com sucesso!
 ![Instalação do bloco Exemplo](https://i.imgur.com/uHUeqls.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODE4NTUxNTRdfQ==
+eyJoaXN0b3J5IjpbLTEwNTQ1OTY4MTVdfQ==
 -->
