@@ -38,9 +38,11 @@ Bloco de testemunhos padrão:
 Bloco de testemunhos personalizado pela loja:
 ![](https://i.imgur.com/W5QSqRd.png)
 
-Para a personalização do bloco de testemunhos, pode-se adicionar alguns blocos filhos para compor cada elemento interno que deseja que seja exibido, segue abaixo uma lista com cada bloco filho e suas devidas informações:
+Para a personalização do bloco de testemunhos, pode-se adicionar alguns blocos filhos para compor cada elemento interno que deseja que seja exibido, segue abaixo uma lista com cada bloco filho e suas devidas informações.
 
- - List item
+O bloco de testemunhos aceita alguns blocos filhos, são eles:
+
+ - Título (`yv-title`) (clique aqui para acessar a documentação) 
 
 ### Finalização
 
@@ -50,6 +52,6 @@ O bloco dos testemunhos foi instalado com sucesso!
 ![Instalação do bloco Exemplo](https://i.imgur.com/uHUeqls.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgwMDM0NDk3LC05OTI3NjQwOCw3OTUwNT
-kyNDMsMTAwMjIzMzI0NV19
+eyJoaXN0b3J5IjpbLTQwNzk4NDI2NiwtOTkyNzY0MDgsNzk1MD
+U5MjQzLDEwMDIyMzMyNDVdfQ==
 -->
