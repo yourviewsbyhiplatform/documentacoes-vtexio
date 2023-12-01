@@ -4,15 +4,13 @@
 
 Existem alguns passos muito importantes a serem seguidos para que a instalação do aplicativo da Yourviews seja executada da maneira correta!
 
-### Liberação do Acesso à yourviews
-
-Antes de instalar nosso aplicativo, é importante liberar os devidos acessos para a yourviews, para que seja possível fornecemos um suporte de qualidade, para liberar os devidos acessos, acesso o link abaixo:
+### Liberação dos acessos
+Um passo muito importante é efetuar a liberação de acessos para a hiplatform/yourviews, para isso acesse o link abaixo:
 
 [https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/docs/Libera%C3%A7%C3%A3o%20de%20Acessos.md](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/docs/Libera%C3%A7%C3%A3o%20de%20Acessos.md)
 
-### Instalação do CLI da VTEX
-
-É importante ressaltar que é necessário possuir o CLI da VTEX IO instalado e atualizado em sua máquina, para instalar o CLI da VTEX IO, acesse o link abaixo:
+### Instalação do CLI da VTEX IO
+Antes de tudo, é importante ressaltar que é necessário possuir o CLI da VTEX IO instalado e atualizado em sua máquina, para instalar o CLI da VTEX IO, acesse o link abaixo:
 
 [https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-install](https://developers.vtex.com/docs/guides/vtex-io-documentation-vtex-io-cli-install)
 
@@ -95,4 +93,4 @@ O Aplicativo da yourviews está instalado no seu workspace com sucesso.
 **Mas calma!**
 
 Agora o próximo passo é inserir cada elemento / bloco dentro do código do tema da sua loja, para que os componentes de avaliações, estrelinhas, perguntas e etc sejam exibidos em seu site.
-Para isso, clique aqui, o passo a passo de como inserir cada elemento no tema da sua loja.
+Para isso, [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/docs/Libera%C3%A7%C3%A3o%20de%20Acessos.md), o passo a passo de como inserir cada elemento no tema da sua loja.
