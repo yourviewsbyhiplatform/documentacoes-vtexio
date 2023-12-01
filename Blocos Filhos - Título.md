@@ -50,24 +50,24 @@ A propriedade `className` recebe um texto, esse texto no caso será usado como u
 
 ### Exemplo de uso:
 
-```jsonc
+```diff
 // yourviews-custom.jsonc
 "yv-testimonials": {
   "props": {
     ...
   },
   "children": [
-    "yv-title#testimonial", 
++    "yv-title#testimonial", 
     ...
   ]
 },
 
-"yv-title#testimonial": {
-  "props": {
-    "text": "Avaliações da nossa loja"
-    "className": "testimonialsTitle"
-  }
-},
++"yv-title#testimonial": {
++  "props": {
++    "text": "Avaliações da nossa loja"
++    "className": "testimonialsTitle"
++  }
++},
 ```
 ```css
 /* yourviews.yourviewsreviews.css */
@@ -82,5 +82,5 @@ A propriedade `className` recebe um texto, esse texto no caso será usado como u
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5MTMzNzM0OSwtMTcxOTU5NTUyN119
+eyJoaXN0b3J5IjpbMTMxMzI0MTI2Nl19
 -->
