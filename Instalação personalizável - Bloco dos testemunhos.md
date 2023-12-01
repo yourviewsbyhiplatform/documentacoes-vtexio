@@ -52,15 +52,45 @@ O bloco de testemunhos pode receber uma propriedade importantes para a sua perso
 A propriedade `slidesToShow` recebe um quatro informações, que especificam quantos slides serão exibidos por tamanho de tela, são elas:
 
  - `tinyMobile` (para telas menores que 375px)
- - `mobile` (para telas menores que 375px)
- - `desktop` (para telas menores que 375px)
- - `bigDesktop` (para telas menores que 375px)
+ - `mobile` (para telas menores que 600px)
+ - `desktop` (para telas menores que 990px)
+ - `bigDesktop` (para telas maiores que 990px)
+
+### Exemplo de uso:
+
+```json
+// yourviews-custom.jsonc
+"yv-testimonials": {
+  "props": {
+    ...
+  },
+  "children": [
+    "yv-title#testimonial", 
+    ...
+  ]
+},
+```
+```json
+// yourviews-custom.jsonc
+"yv-title#testimonial": {
+  "props": {
+    "text": "Avaliações da nossa loja"
+    "className": "testimonialsTitle"
+  }
+},
+```
+```css
+/* yourviews.yourviewsreviews.css */
+.testimonialsTitle {
+  color: red;
+}
+```
 
 <br>
 <br>
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDI0NzMxNjUsLTY1NzY3MjY2MiwtOT
+eyJoaXN0b3J5IjpbLTIwNTQ0MTk3ODQsLTY1NzY3MjY2MiwtOT
 kyNzY0MDgsNzk1MDU5MjQzLDEwMDIyMzMyNDVdfQ==
 -->
