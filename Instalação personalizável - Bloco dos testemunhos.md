@@ -6,10 +6,10 @@ Existem alguns passos muito importantes a serem seguidos antes de efetuar a inse
 
 ### Instalação do App Yourviews na Vtex Io
 
-Um dos requisitos obrigatórios é possui o app da yourviews instalado na sua loja vtexio, para isso, acesse o link abaixo para seguir com o passo a passo de instalação:
+Um dos requisitos obrigatórios é possuir o app da yourviews instalado na sua loja vtexio, para isso, acesse o link abaixo para seguir com o passo a passo de instalação:
 [https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instalac%CC%A7a%CC%83o%20do%20App%20Yourviews%20na%20Vtex%20Io.md](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instalac%CC%A7a%CC%83o%20do%20App%20Yourviews%20na%20Vtex%20Io.md)
  
- Ao seguir estes passos, você estará preparado para instalar e configurar o bloco no VTEX IO de maneira eficaz, aproveitando ao máximo as funcionalidades oferecidas. 
+ Ao seguir estes passos, você estará preparado para instalar e configurar o bloco noa VTEX IO de maneira eficaz, aproveitando ao máximo as funcionalidades oferecidas. 
  
 ## Instalação
 
@@ -34,5 +34,5 @@ O bloco dos testemunhos foi instalado com sucesso!
 ![Instalação do bloco Exemplo](https://i.imgur.com/uHUeqls.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3NDU0Njc1NF19
+eyJoaXN0b3J5IjpbMTAwMjIzMzI0NSwtODc0NTQ2NzU0XX0=
 -->
