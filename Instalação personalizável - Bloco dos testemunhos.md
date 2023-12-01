@@ -42,7 +42,8 @@ Para a personalização do bloco de testemunhos, pode-se adicionar alguns blocos
 
 O bloco de testemunhos aceita alguns blocos filhos, são eles:
 
- - Título (`yv-title`) (clique aqui para acessar a documentação) 
+ - Título (`yv-title`) ([clique aqui](a) para acessar a documentação) 
+ - Conteúdo (`yv-testimonials-content`) ([clique aqui](a) para acessar a documentação) 
 
 ### Finalização
 
@@ -52,6 +53,6 @@ O bloco dos testemunhos foi instalado com sucesso!
 ![Instalação do bloco Exemplo](https://i.imgur.com/uHUeqls.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNzk4NDI2NiwtOTkyNzY0MDgsNzk1MD
+eyJoaXN0b3J5IjpbMTYwMDg1MTAwOCwtOTkyNzY0MDgsNzk1MD
 U5MjQzLDEwMDIyMzMyNDVdfQ==
 -->
