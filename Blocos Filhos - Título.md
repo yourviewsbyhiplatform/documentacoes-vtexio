@@ -4,7 +4,7 @@
 
 Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado pode receber esse bloco como filho.
 
-Os blocos que podem receber esse bloco como filho são:
+Blocos pais aceitos:
 
  - `yv-testimonials`
  - `yv-reviews`
@@ -78,5 +78,5 @@ A propriedade `className` recebe um texto, esse texto no caso será usado como u
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI4NDMyODAwXX0=
+eyJoaXN0b3J5IjpbLTE3MTk1OTU1MjddfQ==
 -->
