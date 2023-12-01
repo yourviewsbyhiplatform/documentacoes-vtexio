@@ -22,19 +22,19 @@ Atualmente existem dois modelos de inserção dos blocos da yourviews, o modelo 
 Para efetuar a inserção dos elementos blocos da yourviews no modelo padrão, basta acessar cada link abaixo de cada elemento que você deseja inserir:
 
 #### Estrelas da página de produto (quickreview)
-Link: 
+Link: [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instala%C3%A7%C3%A3o%20padr%C3%A3o%20-%20bloco%20das%20estrelas%20%C3%A2ncoras.md)
 
 #### Listagem de avaliações (reviews)
-Link: 
+Link: [clique aqui](#)
 
 #### Perguntas e Respostas (questions & answers)
-Link: 
+Link: [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instala%C3%A7%C3%A3o%20padr%C3%A3o%20-%20bloco%20de%20perguntas%20e%20respostas.md)
 
 #### Avaliações da loja / Testemunhos (testimonials)
-Link: 
+Link: [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instala%C3%A7%C3%A3o%20padr%C3%A3o%20-%20bloco%20dos%20testemunhos.md)
 
 #### Estrelas de prateleiras (quickreviews)
-Link: 
+Link: [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instala%C3%A7%C3%A3o%20padr%C3%A3o%20-%20bloco%20das%20estrelas%20de%20prateleira.md)
 
 <br>
 <br>
@@ -44,24 +44,24 @@ Link:
 Para efetuar a inserção dos elementos blocos da yourviews no modelo personalizável, basta acessar cada link abaixo de cada elemento que você deseja inserir, em cada elemento haverá uma documentação interna com cada bloco filho aceito e qual a sua funcionalidade.
 
 #### Estrelas da página de produto (quickreview)
-Link: 
+Link: [clique aqui](#)
 
 #### Listagem de avaliações (reviews)
-Link: 
+Link: [clique aqui](#)
 
 #### Perguntas e Respostas (questions & answers)
-Link: 
+Link: [clique aqui](#)
 
 #### Avaliações da loja / Testemunhos (testimonials)
-Link: 
+Link: [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instala%C3%A7%C3%A3o%20personaliz%C3%A1vel%20-%20Bloco%20dos%20testemunhos.md)
 
 #### Estrelas de prateleiras (quickreviews)
-Link: 
+Link: [clique aqui](#)
 
 <br>
 <br>
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyNDg0NjZdfQ==
+eyJoaXN0b3J5IjpbMjA3MDU1MDYyNCw2NjI0ODQ2Nl19
 -->
