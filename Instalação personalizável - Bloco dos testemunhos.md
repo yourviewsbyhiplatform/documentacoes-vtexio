@@ -62,28 +62,28 @@ A propriedade `slidesToShow` recebe um quatro informações, que especificam qua
 // yourviews-custom.jsonc
 "yv-testimonials": {
   "props": {
-    ...
+    "slidesToShow": {
+      "tinyMobile": 1,
+      "mobile": 1,
+      "desktop": 3,
+      "bigDesktop": 3
+    }
   },
   "children": [
-    "yv-title#testimonial", 
     ...
   ]
 },
 ```
 ```json
-// yourviews-custom.jsonc
-"yv-title#testimonial": {
-  "props": {
-    "text": "Avaliações da nossa loja"
-    "className": "testimonialsTitle"
-  }
-},
-```
-```css
-/* yourviews.yourviewsreviews.css */
-.testimonialsTitle {
-  color: red;
-}
+// home.jsonc
+"store.home": {
+    "blocks": [
+      ...
+      "rich-text#link",
+      "newsletter",
+      "yv-testimonials"
+    ]
+  },
 ```
 
 <br>
@@ -91,6 +91,6 @@ A propriedade `slidesToShow` recebe um quatro informações, que especificam qua
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQ0MTk3ODQsLTY1NzY3MjY2MiwtOT
-kyNzY0MDgsNzk1MDU5MjQzLDEwMDIyMzMyNDVdfQ==
+eyJoaXN0b3J5IjpbOTk1NTYzNDkxLC02NTc2NzI2NjIsLTk5Mj
+c2NDA4LDc5NTA1OTI0MywxMDAyMjMzMjQ1XX0=
 -->
