@@ -16,6 +16,7 @@ Um dos requisitos obrigatórios é possui o app da yourviews instalado na sua lo
 ### Nome do bloco
 
 Conhecido como "yv-testimonials", desempenha um papel crucial na experiência de compra online. Esse bloco é especificamente projetado para apresentar as avaliações e opiniões dos clientes sobre a loja, após a conclusão de uma compra. 
+
 ### Localização do bloco
 O bloco de testemunhos é geralmente inserido no bloco pai da VTEX **store.home**, que normalmente corresponde à página home da loja.
 
@@ -26,11 +27,12 @@ O bloco de testemunhos é geralmente inserido no bloco pai da VTEX **store.home*
 Embora o bloco de testemunhos seja comumente inserido na página inicial isso não quer dizer que você obrigatoriamente deverá inseri-lo na página home do site, é apenas o usual. Fique a vontade para incluir o componente onde quiser.
 
 ### Finalização
+
 **Pronto!**
 
 O bloco dos testemunhos foi instalado com sucesso!
 ![Instalação do bloco Exemplo](https://i.imgur.com/uHUeqls.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5MTIyNTc1OF19
+eyJoaXN0b3J5IjpbLTg3NDU0Njc1NF19
 -->
