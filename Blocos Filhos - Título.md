@@ -6,7 +6,7 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
 
 ### Blocos pais aceitos:
 
- - `yv-testimonials` [(documentação)](#)
+ - `yv-testimonials` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instala%C3%A7%C3%A3o%20personaliz%C3%A1vel%20-%20Bloco%20dos%20testemunhos.md)
  - `yv-reviews` [(documentação)](#)
  - `yv-questions-and-answers` [(documentação)](#)
  - `yv-flex` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Flex%20Box.md)
@@ -79,5 +79,5 @@ O bloco de título pode receber duas propriedades importantes para a personaliza
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MTQ1MTE4MSw2MzAzNDc5MF19
+eyJoaXN0b3J5IjpbMTI2Nzc1MjM5LDYzMDM0NzkwXX0=
 -->
