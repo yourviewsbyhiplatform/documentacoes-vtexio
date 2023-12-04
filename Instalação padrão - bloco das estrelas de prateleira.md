@@ -41,5 +41,5 @@ Ao seguir estes passos, você estará preparado para instalar e configurar o blo
 O bloco das estrelas de prateleira foi instalado com sucesso!
 ![Instalação do bloco Exemplo](https://imgur.com/7LVKo8H.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMDAxNzU2NSwtODQ0NTA2MjJdfQ==
+eyJoaXN0b3J5IjpbLTMzMDAxNzU2NV19
 -->
