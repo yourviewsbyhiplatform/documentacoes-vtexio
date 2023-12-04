@@ -34,8 +34,10 @@ Ao seguir estes passos, você estará preparado para instalar e configurar o blo
 **Pronto!**
 
 O bloco de perguntas e respostas foi instalado com sucesso!
+#### Listagem de avaliações
 ![Instalação do bloco Exemplo](https://imgur.com/OI83A3S.png)
+#### Formulário de escrever avaliação
 ![Instalação do bloco Exemplo](https://imgur.com/1Bmza3V.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjkyODAzODhdfQ==
+eyJoaXN0b3J5IjpbLTcxOTU2NDYzNl19
 -->
