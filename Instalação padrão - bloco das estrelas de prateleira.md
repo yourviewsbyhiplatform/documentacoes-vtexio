@@ -19,7 +19,7 @@ Ao seguir estes passos, você estará preparado para instalar e configurar o blo
 ![Instalação do bloco Exemplo](https://i.imgur.com/JM8IKqI.png)
 ### Exemplo
 ```diff
-// home.jsonc
+// product-summary.jsonc
 "product-summary.shelf": {
 	"children": [
 		...
@@ -41,5 +41,5 @@ Ao seguir estes passos, você estará preparado para instalar e configurar o blo
 O bloco das estrelas de prateleira foi instalado com sucesso!
 ![Instalação do bloco Exemplo](https://imgur.com/7LVKo8H.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwNTc0MzgwMiwtODQ0NTA2MjJdfQ==
+eyJoaXN0b3J5IjpbLTMzMDAxNzU2NSwtODQ0NTA2MjJdfQ==
 -->
