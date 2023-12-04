@@ -19,13 +19,22 @@ O bloco `yv-product-rating-summary` é normalmente inserido no bloco pai **store
 ```diff
 // product.jsonc
 "flex-layout.col#right-col": {
-	"children": [
-		...
-		"yv-product-rating-summary",
-		...
+   "children": [
+       ...
+	   "yv-product-rating-summary",
+	   ...
 	]
 },
-```
+```diff
+// home.jsonc
+"store.home": {
+    "blocks": [
+      ...
+     "yv-testimonials"
+    ]
+  },
+``````
+
 ### Finalização
 **Pronto!**
 
@@ -33,5 +42,5 @@ O bloco das estrelas âncora foi instalado com sucesso!
 ![Instalação do bloco Exemplo](https://i.imgur.com/Qhazjwz.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MjM0MTU1N119
+eyJoaXN0b3J5IjpbLTE1ODI1NjQzOTQsLTU3MjM0MTU1N119
 -->
