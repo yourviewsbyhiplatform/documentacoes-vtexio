@@ -19,12 +19,21 @@ Ao seguir estes passos, você estará preparado para instalar e configurar o blo
     "yv-product-questions-and-answers"
     
 ![Instalação do bloco Exemplo](https://imgur.com/NUS4JYT.png)
-
+### Exemplo
+```diff
+// product.jsonc
+"store.product": {
+    "children": [
+      ...
+     "yv-product-questions-and-answers"
+    ]
+  },
+```
 ### Finalização
 **Pronto!**
 
 O bloco de perguntas e respostas foi instalado com sucesso!
 ![Instalação do bloco Exemplo](https://imgur.com/8ImokcO.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MzQyNTBdfQ==
+eyJoaXN0b3J5IjpbODczOTEwNjk0XX0=
 -->
