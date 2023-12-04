@@ -21,18 +21,18 @@ Ao seguir estes passos, você estará preparado para instalar e configurar o blo
 ```diff
 // home.jsonc
 "product-summary.shelf": {
-	...
 	"children": [
+		...
 		"flex-layout.col#productRating",
+		...
 	]
 },
 
 "flex-layout.col#productRating": {
-
-"props": {
-"blockClass":  "productRating"
-},
-"children": ["yv-product-rating-inline"]
+	"props": {
+		"blockClass":  "productRating"
+	},
+	"children": ["yv-product-rating-inline"]
 },
 ```
 ### Finalização
@@ -41,5 +41,5 @@ Ao seguir estes passos, você estará preparado para instalar e configurar o blo
 O bloco das estrelas de prateleira foi instalado com sucesso!
 ![Instalação do bloco Exemplo](https://imgur.com/7LVKo8H.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjQxOTQ3MzYsLTg0NDUwNjIyXX0=
+eyJoaXN0b3J5IjpbMjAwNTc0MzgwMiwtODQ0NTA2MjJdfQ==
 -->
