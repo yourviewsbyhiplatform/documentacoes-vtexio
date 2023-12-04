@@ -24,7 +24,8 @@ O bloco `yv-product-rating-summary` é normalmente inserido no bloco pai **store
 	   "yv-product-rating-summary",
 	   ...
    ]
-},
+}, 
+```
 
 ### Finalização
 **Pronto!**
@@ -33,5 +34,5 @@ O bloco das estrelas âncora foi instalado com sucesso!
 ![Instalação do bloco Exemplo](https://i.imgur.com/Qhazjwz.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzQwMjc1NjFdfQ==
+eyJoaXN0b3J5IjpbLTI2NDI5NzA4M119
 -->
