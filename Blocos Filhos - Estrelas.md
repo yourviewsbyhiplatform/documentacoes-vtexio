@@ -30,14 +30,14 @@ O bloco `yv-rating-stars`, tem como papel, apresentar as estrelas de acordo com 
 
 ### Exemplo de uso:
 
-```jsonc
+```diff
 // yourviews-custom.jsonc
 "yv-flex#slide": {
   "props": {
     ...
   },
   "children": [
-    "yv-rating-stars",
++   "yv-rating-stars",
     ...
   ]
 },
@@ -49,5 +49,5 @@ O bloco `yv-rating-stars`, tem como papel, apresentar as estrelas de acordo com 
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODEwMDI3NV19
+eyJoaXN0b3J5IjpbMTAwNTMwNTkxNl19
 -->
