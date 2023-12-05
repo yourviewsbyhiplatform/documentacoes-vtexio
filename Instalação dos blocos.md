@@ -25,7 +25,7 @@ Para efetuar a inserção dos elementos blocos da yourviews no modelo padrão, b
 Link: [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instala%C3%A7%C3%A3o%20padr%C3%A3o%20-%20bloco%20das%20estrelas%20%C3%A2ncoras.md)
 
 #### Listagem de avaliações (reviews)
-Link: [clique aqui](#)
+Link: [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instala%C3%A7%C3%A3o%20padr%C3%A3o%20-%20bloco%20de%20reviews.md)
 
 #### Perguntas e Respostas (questions & answers)
 Link: [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instala%C3%A7%C3%A3o%20padr%C3%A3o%20-%20bloco%20de%20perguntas%20e%20respostas.md)
@@ -44,7 +44,7 @@ Link: [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/
 Para efetuar a inserção dos elementos blocos da yourviews no modelo personalizável, basta acessar cada link abaixo de cada elemento que você deseja inserir, em cada elemento haverá uma documentação interna com cada bloco filho aceito e qual a sua funcionalidade.
 
 #### Estrelas da página de produto (quickreview)
-Link: [clique aqui](#)
+Link: [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instala%C3%A7%C3%A3o%20personaliz%C3%A1vel%20-%20Bloco%20das%20estrelas%20de%20ancoragem.md)
 
 #### Listagem de avaliações (reviews)
 Link: [clique aqui](#)
@@ -71,5 +71,5 @@ Link: [clique aqui](#)
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTM0ODU4N119
+eyJoaXN0b3J5IjpbLTc3NTM2NTE1NCwxODI1MzQ4NTg3XX0=
 -->
