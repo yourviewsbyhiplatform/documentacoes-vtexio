@@ -43,11 +43,14 @@ O bloco `yv-rating-stars`, tem como papel, apresentar as estrelas de acordo com 
 },
 ```
 
+### Visual do Componente
+![](https://i.imgur.com/okMRHqX.png)
+
 <br>
 <br>
 
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNTMwNTkxNl19
+eyJoaXN0b3J5IjpbLTExMDY5NzI1NDNdfQ==
 -->
