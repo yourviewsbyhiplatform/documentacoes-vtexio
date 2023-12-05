@@ -43,7 +43,9 @@ O bloco `yv-date`, tem como papel, apresentar a data acordo com o conteúdo dent
 ```
 
 ### Visual do Componente
-![](https://i.imgur.com/okMRHqX.png)
+![](https://i.imgur.com/JDQF64F.png)
+ou
+![](https://i.imgur.com/mNtuwGf.png)
 
 <br>
 <br>
@@ -51,5 +53,5 @@ O bloco `yv-date`, tem como papel, apresentar a data acordo com o conteúdo dent
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg5NjMyNTAzLC0xMjY5NDY1ODA2XX0=
+eyJoaXN0b3J5IjpbLTIxMjQzOTQzOTVdfQ==
 -->
