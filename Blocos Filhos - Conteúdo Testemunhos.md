@@ -18,9 +18,9 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
  - `yv-date` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Data.md)
  - `yv-user-image` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Imagem%20do%20Usu%C3%A1rio.md)
  - `yv-user-name` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Nome%20do%20Usu%C3%A1rio.md)
- - `yv-user-localization` [(documentação)](#)
- - `yv-comment` [(documentação)](#)
- - `yv-store-ratings` [(documentação)](#)
+ - `yv-user-localization` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Localiza%C3%A7%C3%A3o%20do%20Usu%C3%A1rio.md)
+ - `yv-comment` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Coment%C3%A1rio.md)
+ - `yv-store-ratings` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Avalia%C3%A7%C3%B5es%20da%20Loja.md)
  
  
 ## Usabilidade
@@ -55,5 +55,5 @@ Esse bloco não aceita nenhuma propriedade específica.
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NzAwMDQwMl19
+eyJoaXN0b3J5IjpbLTIwMTM0OTY1ODZdfQ==
 -->
