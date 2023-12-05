@@ -31,19 +31,20 @@ O bloco yv-product-rating-summary é normalmente inserido no bloco pai store.pro
 O bloco `yv-product-rating-summary` pode ser personalizado recebendo alguns blocos filhos que irão compor a sua estrutura, isso é útil para quem deseja criar sua própria estrutura, segue abaixo dois prints padrão e um personalizado:
 
 Padrão:
-![](https://i.imgur.com/As4ZBwO.png)
+![](https://i.imgur.com/8HOy0DJ.png)
 
 Personalizado pela loja:
-![](https://i.imgur.com/W5QSqRd.png)
+![](https://i.imgur.com/tIKdxE7.png)
 
-Para a personalização do bloco de testemunhos, pode-se adicionar alguns blocos filhos para compor cada elemento interno que deseja que seja exibido, segue abaixo uma lista com cada bloco filho e suas devidas informações.
+Para a personalização do bloco de estrelas de ancoragem, pode-se adicionar alguns blocos filhos para compor cada elemento interno que deseja que seja exibido, segue abaixo uma lista com cada bloco filho e suas devidas informações.
 
 #### Blocos filhos (children)
 
-O bloco de testemunhos aceita alguns blocos filhos, são eles:
+O bloco de das estrelas de ancoragem aceita alguns blocos filhos, são eles:
 
- - `yv-title` (Título) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20T%C3%ADtulo.md)
- - `yv-testimonials-content` (Conteúdo) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Conte%C3%BAdo%20Testemunhos.md)
+ - `yv-rating-stars` (Título) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20T%C3%ADtulo.md)
+ - `yv-rating-average` (Conteúdo) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Conte%C3%BAdo%20Testemunhos.md)
+ -   `yv-rating-average` (Conteúdo) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Conte%C3%BAdo%20Testemunhos.md)
  - `yv-flex` (Flex Box) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Flex%20Box.md)
  - `yv-rich-text` (Texto) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Texto.md)
 
@@ -91,5 +92,5 @@ A propriedade `slidesToShow` recebe um quatro informações, que especificam qua
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTgxMzQzNjBdfQ==
+eyJoaXN0b3J5IjpbOTgyNDEzNTMxLC0xNjE4MTM0MzYwXX0=
 -->
