@@ -18,7 +18,7 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
 
 ### Nome do bloco
 
-O bloco `yv-user-localization`, tem como papel, apresentar a imagem ou avatar do usuário de acordo com o conteúdo dentro do bloco pai.
+O bloco `yv-user-localization`, tem como papel, apresentar a localização do usuário de acordo com o conteúdo dentro do bloco pai.
 
 ### Propriedades (props)
 
@@ -50,5 +50,5 @@ O bloco `yv-user-localization`, tem como papel, apresentar a imagem ou avatar do
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyOTUwNzE3N119
+eyJoaXN0b3J5IjpbMjYwNjMwNjYwXX0=
 -->
