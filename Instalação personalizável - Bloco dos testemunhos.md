@@ -30,12 +30,12 @@ Embora o bloco de testemunhos seja comumente inserido na página inicial isso n�
 
 ### Personalização do bloco
 
-O bloco `yv-testimonials` pode ser personalizado recebendo alguns blocos filhos que irão compor a sua estrutura, isso é útil para quem deseja criar sua própria estrutura de testemunhos, segue abaixo dois prints de um testemunho padrão e um personalizado:
+O bloco `yv-testimonials` pode ser personalizado recebendo alguns blocos filhos que irão compor a sua estrutura, isso é útil para quem deseja criar sua própria estrutura, segue abaixo dois prints padrão e um personalizado:
 
-Bloco de testemunhos padrão:
+Padrão:
 ![](https://i.imgur.com/As4ZBwO.png)
 
-Bloco de testemunhos personalizado pela loja:
+Personalizado pela loja:
 ![](https://i.imgur.com/W5QSqRd.png)
 
 Para a personalização do bloco de testemunhos, pode-se adicionar alguns blocos filhos para compor cada elemento interno que deseja que seja exibido, segue abaixo uma lista com cada bloco filho e suas devidas informações.
@@ -93,5 +93,5 @@ A propriedade `slidesToShow` recebe um quatro informações, que especificam qua
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjc3Njg5MTVdfQ==
+eyJoaXN0b3J5IjpbMTY0MTQyODI5MF19
 -->
