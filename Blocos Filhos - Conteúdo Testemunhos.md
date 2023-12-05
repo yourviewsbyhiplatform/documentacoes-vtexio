@@ -14,7 +14,7 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
 ### Blocos filhos aceitos:
 
  - `yv-rating-stars` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Estrelas.md)
- - `yv-rating-average` [(documentação)]()
+ - `yv-rating-average` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Nota%20M%C3%A9dia.md)
  - `yv-date` [(documentação)](#)
  - `yv-user-image` [(documentação)](#)
  - `yv-user-name` [(documentação)](#)
@@ -55,5 +55,5 @@ Esse bloco não aceita nenhuma propriedade específica.
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1Mjg3NDc2LC00NDY4MTA4MTNdfQ==
+eyJoaXN0b3J5IjpbMTU3MTU4NDg5MV19
 -->
