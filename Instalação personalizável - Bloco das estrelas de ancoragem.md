@@ -57,17 +57,19 @@ O bloco das estrelas de ancoragem não recebe nenhuma propriedade diretamente
 ```jsonc
 // yourviews-custom.jsonc
 "yv-product-rating-summary": {
-    "children": ["yv-flex#rating-summary"]
-  },
+  "children": ["yv-flex#rating-summary"]
+},
 ```
 ```diff
-// home.jsonc
-"store.home": {
-    "blocks": [
-      ...
-     "yv-testimonials"
-    ]
-  },
+// product.jsonc
+"flex-layout.col#right-col": {
+  ...
+  "children": [
+    "flex-layout.row#product-name",
++   "yv-product-rating-summary",
+    ...
+  ]
+},
 ```
 
 <br>
@@ -75,5 +77,5 @@ O bloco das estrelas de ancoragem não recebe nenhuma propriedade diretamente
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MTE3MTY3MCwyNTk1MjUyNDddfQ==
+eyJoaXN0b3J5IjpbMTc4OTI4MDA1OCwyNTk1MjUyNDddfQ==
 -->
