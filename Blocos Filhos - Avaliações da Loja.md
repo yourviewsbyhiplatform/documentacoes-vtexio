@@ -17,7 +17,7 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
 
 ### Nome do bloco
 
-O bloco `yv-flex`, tem como papel, apresentar o comentário feito pelo usuário de acordo com o conteúdo dentro do bloco pai.
+O bloco `yv-store-ratings`, tem como papel, apresentar as avaliações de cada pergunta relacionada a loja feita pelo usuário de acordo com o conteúdo dentro do bloco pai.
 
 ### Propriedades (props)
 
@@ -32,14 +32,14 @@ O bloco `yv-flex`, tem como papel, apresentar o comentário feito pelo usuário 
     ...
   },
   "children": [
-+   "yv-comment",
++   "yv-store-ratings",
     ...
   ]
 },
 ```
 
 ### Visual do Componente
-![](https://i.imgur.com/EJfgcXz.png)
+![](https://i.imgur.com/TjeP07t.png)
 
 <br>
 <br>
@@ -47,5 +47,5 @@ O bloco `yv-flex`, tem como papel, apresentar o comentário feito pelo usuário 
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTQ1OTI1OV19
+eyJoaXN0b3J5IjpbMTc0NjkyMzMwXX0=
 -->
