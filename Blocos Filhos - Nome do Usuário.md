@@ -20,7 +20,7 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
 
 ### Nome do bloco
 
-O bloco `yv-user-name`, tem como papel, apresentar a data acordo com o conteúdo dentro do bloco pai.
+O bloco `yv-user-name`, tem como papel, apresentar o nome do usuário acordo com o conteúdo dentro do bloco pai.
 
 ### Propriedades (props)
 
@@ -48,5 +48,5 @@ O bloco `yv-user-name`, tem como papel, apresentar a data acordo com o conteúdo
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NDY2MTMyN119
+eyJoaXN0b3J5IjpbLTEyMDk0MjUyMjVdfQ==
 -->
