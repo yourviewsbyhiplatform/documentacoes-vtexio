@@ -42,11 +42,14 @@ O bloco `yv-user-name`, tem como papel, apresentar o nome do usuário acordo com
 },
 ```
 
+### Visual do Componente
+![](https://i.imgur.com/okMRHqX.png)
+
 <br>
 <br>
 
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDk0MjUyMjVdfQ==
+eyJoaXN0b3J5IjpbNzM3NzI0NDc2LC0xMjA5NDI1MjI1XX0=
 -->
