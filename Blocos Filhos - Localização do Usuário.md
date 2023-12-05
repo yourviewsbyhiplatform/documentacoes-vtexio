@@ -1,4 +1,4 @@
-# Blocos Filhos - Imagem do Usuário
+# Blocos Filhos - Localização do Usuário
 
 ## Importante
 
@@ -50,5 +50,5 @@ O bloco `yv-user-localization`, tem como papel, apresentar a imagem ou avatar do
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjg0NDM1NDVdfQ==
+eyJoaXN0b3J5IjpbMTIyOTUwNzE3N119
 -->
