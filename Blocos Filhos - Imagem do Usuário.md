@@ -41,11 +41,14 @@ O bloco `yv-user-image`, tem como papel, apresentar a imagem ou avatar do usuár
 },
 ```
 
+### Visual do Componente
+![](https://i.imgur.com/okMRHqX.png)
+
 <br>
 <br>
 
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMjMyODMwMl19
+eyJoaXN0b3J5IjpbLTE3NTg2Mjc0MDUsMTAyMjMyODMwMl19
 -->
