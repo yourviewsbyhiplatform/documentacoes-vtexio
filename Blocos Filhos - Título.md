@@ -73,11 +73,14 @@ O bloco de título pode receber duas propriedades importantes para a personaliza
 }
 ```
 
+### Visual do Componente
+![](https://i.imgur.com/wMSjjIU.png)
+
 <br>
 <br>
 
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2Nzc1MjM5XX0=
+eyJoaXN0b3J5IjpbLTE3OTgwMzkxNTFdfQ==
 -->
