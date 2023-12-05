@@ -43,11 +43,14 @@ O bloco `yv-rating-average`, tem como papel, apresentar a nota média dentro do 
 },
 ```
 
+### Visual do Componente
+![](https://i.imgur.com/okMRHqX.png)
+
 <br>
 <br>
 
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkwNDUyODM0XX0=
+eyJoaXN0b3J5IjpbNTIzMDUyODM5LDU5MDQ1MjgzNF19
 -->
