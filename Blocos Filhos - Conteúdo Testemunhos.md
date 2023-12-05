@@ -16,8 +16,8 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
  - `yv-rating-stars` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Estrelas.md)
  - `yv-rating-average` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Nota%20M%C3%A9dia.md)
  - `yv-date` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Data.md)
- - `yv-user-image` [(documentação)](#)
- - `yv-user-name` [(documentação)](#)
+ - `yv-user-image` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Imagem%20do%20Usu%C3%A1rio.md)
+ - `yv-user-name` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Nome%20do%20Usu%C3%A1rio.md)
  - `yv-user-localization` [(documentação)](#)
  - `yv-comment` [(documentação)](#)
  - `yv-store-ratings` [(documentação)](#)
@@ -55,5 +55,5 @@ Esse bloco não aceita nenhuma propriedade específica.
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjkwMzA5N119
+eyJoaXN0b3J5IjpbLTk1NzAwMDQwMl19
 -->
