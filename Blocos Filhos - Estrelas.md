@@ -11,7 +11,7 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
  - `yv-product-rating-summary` [(documentação)](#)
  - `yv-reviews-details` [(documentação)](#)
  - `yv-reviews-field-summary` [(documentação)](#)
- - `yv-reviews-content` [(documentação)](#)
+ - `yv-content-review` [(documentação)](#)
  - `yv-flex` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Flex%20Box.md)
 
 ### Blocos filhos aceitos:
@@ -49,5 +49,5 @@ O bloco `yv-rating-stars`, tem como papel, apresentar as estrelas de acordo com 
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyMjEwMTk4XX0=
+eyJoaXN0b3J5IjpbMTcwODEwMDI3NV19
 -->
