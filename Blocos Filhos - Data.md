@@ -42,11 +42,14 @@ O bloco `yv-date`, tem como papel, apresentar a data acordo com o conteúdo dent
 },
 ```
 
+### Visual do Componente
+![](https://i.imgur.com/okMRHqX.png)
+
 <br>
 <br>
 
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjk0NjU4MDZdfQ==
+eyJoaXN0b3J5IjpbOTg5NjMyNTAzLC0xMjY5NDY1ODA2XX0=
 -->
