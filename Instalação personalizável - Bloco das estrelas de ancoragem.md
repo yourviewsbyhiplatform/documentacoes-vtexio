@@ -77,5 +77,5 @@ O bloco das estrelas de ancoragem não recebe nenhuma propriedade diretamente
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTI4MDA1OCwyNTk1MjUyNDddfQ==
+eyJoaXN0b3J5IjpbMTc4OTI4MDA1OF19
 -->
