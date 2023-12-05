@@ -20,7 +20,7 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
 
 ### Nome do bloco
 
-O bloco `yv-comment`, tem como papel, apresentar a imagem ou avatar do usuário de acordo com o conteúdo dentro do bloco pai.
+O bloco `yv-comment`, tem como papel, apresentar o comentário feito pelo usuário de acordo com o conteúdo dentro do bloco pai.
 
 ### Propriedades (props)
 
@@ -50,5 +50,5 @@ O bloco `yv-comment`, tem como papel, apresentar a imagem ou avatar do usuário 
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNDIxODAxOF19
+eyJoaXN0b3J5IjpbMTQ2OTk1ODA1Ml19
 -->
