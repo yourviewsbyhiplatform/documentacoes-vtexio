@@ -44,38 +44,21 @@ O bloco de das estrelas de ancoragem aceita alguns blocos filhos, são eles:
 
  - `yv-rating-stars` (Estrelas) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Estrelas.md)
  - `yv-rating-average` (Nota Média) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Nota%20M%C3%A9dia.md)
- - `yv-total-rating` (Total de avaliações) [(documentação)](#)
+ - `yv-total-rating` (Total de avaliações) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Total%20de%20Avalia%C3%A7%C3%B5es.md)
  - `yv-flex` (Flex Box) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Flex%20Box.md)
  - `yv-rich-text` (Texto) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Texto.md)
 
 #### Propriedades (props)
 
-O bloco de testemunhos pode receber uma propriedade importantes para a sua personalização.
-
-A propriedade `slidesToShow` recebe um quatro informações, que especificam quantos slides serão exibidos por tamanho de tela, são elas:
-
- - `tinyMobile` (para telas menores que 375px)
- - `mobile` (para telas menores que 600px)
- - `desktop` (para telas menores que 990px)
- - `bigDesktop` (para telas maiores que 990px)
+O bloco das estrelas de ancoragem não recebe nenhuma propriedade diretamente
 
 ### Exemplo de uso:
 
 ```jsonc
 // yourviews-custom.jsonc
-"yv-testimonials": {
-  "props": {
-    "slidesToShow": {
-      "tinyMobile": 1,
-      "mobile": 1,
-      "desktop": 3,
-      "bigDesktop": 3
-    }
+"yv-product-rating-summary": {
+    "children": ["yv-flex#rating-summary"]
   },
-  "children": [
-    ...
-  ]
-},
 ```
 ```diff
 // home.jsonc
@@ -92,5 +75,5 @@ A propriedade `slidesToShow` recebe um quatro informações, que especificam qua
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5NTI1MjQ3XX0=
+eyJoaXN0b3J5IjpbMTc1MTE3MTY3MCwyNTk1MjUyNDddfQ==
 -->
