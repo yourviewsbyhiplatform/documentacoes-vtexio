@@ -21,6 +21,7 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
  - `yv-user-localization` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Localiza%C3%A7%C3%A3o%20do%20Usu%C3%A1rio.md)
  - `yv-comment` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Coment%C3%A1rio.md)
  - `yv-store-ratings` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Avalia%C3%A7%C3%B5es%20da%20Loja.md)
+ - `yv-flex` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Flex%20Box.md)
  
  
 ## Usabilidade
@@ -55,5 +56,6 @@ Esse bloco não aceita nenhuma propriedade específica.
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTM0OTY1ODZdfQ==
+eyJoaXN0b3J5IjpbLTE4ODAyNjA4MjcsLTIwMTM0OTY1ODZdfQ
+==
 -->
