@@ -42,11 +42,17 @@ O bloco `yv-reviews-details`, tem como papel, apenas englobar todo os blocos fil
 },
 ```
 
+### Visual do Componente
+![](https://i.imgur.com/EBxTILS.png)
+
+<br>
+<br>
+
 <br>
 <br>
 
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTgwODkxNTZdfQ==
+eyJoaXN0b3J5IjpbNzgyMTM4NjEwXX0=
 -->
