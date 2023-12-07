@@ -27,7 +27,7 @@ O bloco `yv-reviews-details`, tem como papel, apenas englobar todo os blocos fil
 
 ### Propriedades (props)
 
-Nenhuma
+ - `className` - Texto para ser usado como classe do componente (handlers)
 
 ### Exemplo de uso:
 
@@ -48,5 +48,5 @@ Nenhuma
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNzc0ODk0NV19
+eyJoaXN0b3J5IjpbLTEyOTgwODkxNTZdfQ==
 -->
