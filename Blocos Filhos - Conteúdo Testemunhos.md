@@ -13,13 +13,13 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
 
 ### Blocos filhos aceitos:
 
- - `yv-rating-stars` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Estrelas.md)
- - `yv-rating-average` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Nota%20M%C3%A9dia.md)
- - `yv-date` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Data.md)
- - `yv-user-image` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Imagem%20do%20Usu%C3%A1rio.md)
- - `yv-user-name` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Nome%20do%20Usu%C3%A1rio.md)
- - `yv-user-localization` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Localiza%C3%A7%C3%A3o%20do%20Usu%C3%A1rio.md)
- - `yv-comment` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Coment%C3%A1rio.md)
+ - `yv-rating-stars` (Estrelas) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Estrelas.md)
+ - `yv-rating-average` (Nota média) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Nota%20M%C3%A9dia.md)
+ - `yv-date` (Data) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Data.md)
+ - `yv-user-image` (Imagem do usuário) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Imagem%20do%20Usu%C3%A1rio.md)
+ - `yv-user-name` (Nome do usuário) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Nome%20do%20Usu%C3%A1rio.md)
+ - `yv-user-localization` (Localização do usuário)[(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Localiza%C3%A7%C3%A3o%20do%20Usu%C3%A1rio.md)
+ - `yv-comment` (Comentário) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Coment%C3%A1rio.md)
  - `yv-store-ratings` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Avalia%C3%A7%C3%B5es%20da%20Loja.md)
  - `yv-flex` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Flex%20Box.md)
  
@@ -56,6 +56,6 @@ Esse bloco não aceita nenhuma propriedade específica.
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODAyNjA4MjcsLTIwMTM0OTY1ODZdfQ
+eyJoaXN0b3J5IjpbLTE0MzE1OTgxOTQsLTIwMTM0OTY1ODZdfQ
 ==
 -->
