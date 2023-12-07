@@ -20,8 +20,9 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
  - `yv-user-name` (Nome do usuário) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Nome%20do%20Usu%C3%A1rio.md)
  - `yv-user-localization` (Localização do usuário)[(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Localiza%C3%A7%C3%A3o%20do%20Usu%C3%A1rio.md)
  - `yv-comment` (Comentário) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Coment%C3%A1rio.md)
- - `yv-store-ratings` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Avalia%C3%A7%C3%B5es%20da%20Loja.md)
- - `yv-flex` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Flex%20Box.md)
+ - `yv-store-ratings` (Avaliações da loja) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Avalia%C3%A7%C3%B5es%20da%20Loja.md)
+ - `yv-flex` (Flex box) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Flex%20Box.md)
+ - `yv-rich-text` (Texto) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Texto.md)
  
  
 ## Usabilidade
@@ -56,6 +57,5 @@ Esse bloco não aceita nenhuma propriedade específica.
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzE1OTgxOTQsLTIwMTM0OTY1ODZdfQ
-==
+eyJoaXN0b3J5IjpbMTkyMTc1OTE1NV19
 -->
