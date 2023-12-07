@@ -1,4 +1,4 @@
-# Instalação personalizável - Bloco d
+# Instalação personalizável - Bloco de reviews
 
 ## Requisitos
 
@@ -88,5 +88,5 @@ O bloco de reviews aceita alguns blocos filhos, são eles:
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NDM2MzYwOF19
+eyJoaXN0b3J5IjpbLTExMjQzNDA5MzhdfQ==
 -->
