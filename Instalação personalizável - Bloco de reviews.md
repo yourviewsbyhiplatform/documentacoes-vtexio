@@ -43,7 +43,7 @@ Para a personalização do bloco reviews, pode-se adicionar alguns blocos filhos
 O bloco de reviews aceita alguns blocos filhos, são eles:
 
  - `yv-title` (Título) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20T%C3%ADtulo.md)
- - `yv-reviews-details` (Detalhes) [(documentação)](#)
+ - `yv-reviews-details` (Detalhes) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Detalhes%20das%20avalia%C3%A7%C3%B5es.md)
  - `yv-reviews-field-summary` (Sumário) [(documentação)](#)
  - `yv-orderby-select` (Ordenação) [(documentação)](#)
  - `yv-reviews-content` (Conteúdo) [(documentação)](#)
@@ -88,5 +88,5 @@ O bloco de reviews aceita alguns blocos filhos, são eles:
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQzNDA5MzhdfQ==
+eyJoaXN0b3J5IjpbLTI3MTE5Mjg5M119
 -->
