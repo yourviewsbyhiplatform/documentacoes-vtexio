@@ -7,6 +7,7 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
 ### Blocos pais aceitos:
 
  - `yv-product-reviews` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instala%C3%A7%C3%A3o%20personaliz%C3%A1vel%20-%20Bloco%20de%20reviews.md)
+ - `yv-flex` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Flex%20Box.md)
 
 ### Blocos filhos aceitos:
 
@@ -15,7 +16,7 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
  - `yv-rating-average` (Nota Média) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Nota%20M%C3%A9dia.md)
  - `yv-total-rating` (Total de avaliações) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Total%20de%20Avalia%C3%A7%C3%B5es.md)
  - `yv-reviews-recommend` (Recomendações) [(documentação)](#)
-
+ - `yv-flex` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Flex%20Box.md)
  
 ## Usabilidade
 
@@ -46,5 +47,6 @@ Nenhuma
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTMwMzAxMzBdfQ==
+eyJoaXN0b3J5IjpbLTIwODM1Njc3MTIsLTE4NTMwMzAxMzBdfQ
+==
 -->
