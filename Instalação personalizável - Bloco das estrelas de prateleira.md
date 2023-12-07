@@ -36,11 +36,11 @@ Padrão:
 Personalizado pela loja:
 ![](https://i.imgur.com/tIKdxE7.png)
 
-Para a personalização do bloco de estrelas de ancoragem, pode-se adicionar alguns blocos filhos para compor cada elemento interno que deseja que seja exibido, segue abaixo uma lista com cada bloco filho e suas devidas informações.
+Para a personalização do bloco de estrelas de prateleira, pode-se adicionar alguns blocos filhos para compor cada elemento interno que deseja que seja exibido, segue abaixo uma lista com cada bloco filho e suas devidas informações.
 
 #### Blocos filhos (children)
 
-O bloco de das estrelas de ancoragem aceita alguns blocos filhos, são eles:
+O bloco de das estrelas de prateleira aceita alguns blocos filhos, são eles:
 
  - `yv-rating-stars` (Estrelas) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Estrelas.md)
  - `yv-rating-average` (Nota Média) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Nota%20M%C3%A9dia.md)
@@ -50,7 +50,7 @@ O bloco de das estrelas de ancoragem aceita alguns blocos filhos, são eles:
 
 #### Propriedades (props)
 
-O bloco das estrelas de ancoragem não recebe nenhuma propriedade diretamente
+O bloco das estrelas de prateleira não recebe nenhuma propriedade diretamente
 
 ### Exemplo de uso:
 
@@ -78,5 +78,5 @@ O bloco das estrelas de ancoragem não recebe nenhuma propriedade diretamente
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NzQ0MzYwOV19
+eyJoaXN0b3J5IjpbNDI1NTYwNTExXX0=
 -->
