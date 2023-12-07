@@ -44,7 +44,7 @@ O bloco de reviews aceita alguns blocos filhos, são eles:
 
  - `yv-title` (Título) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20T%C3%ADtulo.md)
  - `yv-reviews-details` (Detalhes) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Detalhes%20das%20avalia%C3%A7%C3%B5es.md)
- - `yv-reviews-field-summary` (Sumário) [(documentação)](#)
+ - `yv-reviews-field-summary` (Sumário) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Sum%C3%A1rio%20de%20campos.md)
  - `yv-orderby-select` (Ordenação) [(documentação)](#)
  - `yv-reviews-content` (Conteúdo) [(documentação)](#)
  - `yv-writereview-button` (Botão de escrever avaliação) [(documentação)](#)
@@ -88,5 +88,5 @@ O bloco de reviews aceita alguns blocos filhos, são eles:
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MTE5Mjg5M119
+eyJoaXN0b3J5IjpbLTEyMzIyMTI3MF19
 -->
