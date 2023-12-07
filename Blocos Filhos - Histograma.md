@@ -11,9 +11,9 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
 
 ### Blocos filhos aceitos:
 
- - `yv-histogram-title` (Titulo do Histograma) [(documentação)](#)
- - `yv-histogram-bar` (Barra do Histograma) [(documentação)](#)
- - `yv-histogram-total` (Valor Total do Histograma) [(documentação)](#)
+ - `yv-histogram-title` (Titulo do Histograma) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20T%C3%ADtulo%20Histograma.md)
+ - `yv-histogram-bar` (Barra do Histograma) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Barra%20Histograma.md)
+ - `yv-histogram-total` (Valor Total do Histograma) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Total%20Histograma.md)
  - `yv-flex` (Flex box) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Flex%20Box.md)
  - `yv-rich-text` (Texto) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Texto.md)
 
@@ -49,5 +49,5 @@ O bloco `yv-reviews-histogram`, tem como papel, apenas englobar todo os blocos f
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU5NzMzOTQ4XX0=
+eyJoaXN0b3J5IjpbMTkzOTI1OTg5OV19
 -->
