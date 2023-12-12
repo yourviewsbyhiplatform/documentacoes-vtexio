@@ -18,7 +18,7 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
  - `yv-user-name` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Nome%20do%20Usu%C3%A1rio.md) 
  - `yv-date` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Data.md) 
  - `yv-review-photo` [(documentação)](#)
- - `yv-store-comment` [(documentação)](#)
+ - `yv-store-comment` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Coment%C3%A1rio%20da%20Loja.md)
  - `yv-like-dislike-button` [(documentação)](#)
 
 ## Usabilidade
@@ -49,5 +49,5 @@ Nenhuma
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODQyMzAzM119
+eyJoaXN0b3J5IjpbLTEzNTQ0ODY0OTQsMTQxODQyMzAzM119
 -->
