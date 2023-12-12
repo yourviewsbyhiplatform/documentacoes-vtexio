@@ -58,6 +58,8 @@ Link: [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/
 #### Estrelas de prateleiras (quickreviews)
 Link: [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instala%C3%A7%C3%A3o%20personaliz%C3%A1vel%20-%20Bloco%20das%20estrelas%20de%20prateleira.md)
 
+<hr>
+
 ### Blocos Extras para personalização
 
 #### Flex Box (yv-flex)
@@ -71,5 +73,5 @@ Link: [clique aqui](#)
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM0MTI2ODkzXX0=
+eyJoaXN0b3J5IjpbLTMzMjI4ODYzMSw5MzQxMjY4OTNdfQ==
 -->
