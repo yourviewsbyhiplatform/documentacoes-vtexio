@@ -13,7 +13,7 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
 
  - `yv-rating-stars` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Estrelas.md)
  - `yv-comment` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Coment%C3%A1rio.md) 
- - `yv-custom-fields` [(documentação)](#) 
+ - `yv-custom-fields` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Campos%20de%20avalia%C3%A7%C3%A3o%20personalizados.md) 
  - `yv-user-image` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Imagem%20do%20Usu%C3%A1rio.md) 
  - `yv-user-name` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Nome%20do%20Usu%C3%A1rio.md) 
  - `yv-date` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Data.md) 
@@ -52,5 +52,5 @@ Nenhuma
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk4ODc0MjEyXX0=
+eyJoaXN0b3J5IjpbNDUwNjU5OTQ0LDQ5ODg3NDIxMl19
 -->
