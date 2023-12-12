@@ -7,8 +7,8 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
 ### Blocos pais aceitos:
 
  - `yv-testimonials-content` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Conte%C3%BAdo%20Testemunhos.md)
- - `yv-product-rating-inline` [(documentação)](#)
- - `yv-product-rating-summary` [(documentação)](#)
+ - `yv-product-rating-inline` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instala%C3%A7%C3%A3o%20personaliz%C3%A1vel%20-%20Bloco%20das%20estrelas%20de%20prateleira.md)
+ - `yv-product-rating-summary` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instala%C3%A7%C3%A3o%20personaliz%C3%A1vel%20-%20Bloco%20das%20estrelas%20de%20ancoragem.md)
  - `yv-reviews-details` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Detalhes%20das%20avalia%C3%A7%C3%B5es.md)
  - `yv-reviews-field-summary` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Sum%C3%A1rio%20de%20campos.md)
  - `yv-content-review` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Conte%C3%BAdo%20Interno%20das%20avalia%C3%A7%C3%B5es.md)
@@ -52,5 +52,5 @@ O bloco `yv-rating-stars`, tem como papel, apresentar as estrelas de acordo com 
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjk1NDQ3OSwtMTEwNjk3MjU0M119
+eyJoaXN0b3J5IjpbLTU4MDI3ODE2N119
 -->
