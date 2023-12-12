@@ -43,11 +43,14 @@ Nenhuma
 },
 ```
 
+### Visual do Componente
+![](https://i.imgur.com/EJfgcXz.png)
+
 <br>
 <br>
 
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTQ0ODY0OTRdfQ==
+eyJoaXN0b3J5IjpbMTc0MjYzMjAyMl19
 -->
