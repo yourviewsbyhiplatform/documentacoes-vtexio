@@ -6,7 +6,7 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
 ### Blocos pais aceitos:
 
  - `yv-product-rating-inline` [(documentação)](#)
- - `yv-product-rating-summary` [(documentação)](#)
+ - `yv-product-rating-summary` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instala%C3%A7%C3%A3o%20personaliz%C3%A1vel%20-%20Bloco%20das%20estrelas%20de%20ancoragem.md)
  - `yv-reviews-details` [(documentação)](#)
  - `yv-reviews-field-summary` [(documentação)](#)
  - `yv-content-review` [(documentação)](#)
@@ -50,5 +50,5 @@ ou
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDUyMTEzMF19
+eyJoaXN0b3J5IjpbLTU0NDY4OTIzNiwxMTM0NTIxMTMwXX0=
 -->
