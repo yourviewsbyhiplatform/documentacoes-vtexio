@@ -52,7 +52,7 @@ O bloco `yv-store-comment`, tem como papel, retornar o comentário e data do com
 ```
 
 ### Visual do Componente
-![](https://i.imgur.com/EJfgcXz.png)
+![](https://i.imgur.com/1noyCUb.png)
 
 <br>
 <br>
@@ -60,5 +60,5 @@ O bloco `yv-store-comment`, tem como papel, retornar o comentário e data do com
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMzcxNzczOV19
+eyJoaXN0b3J5IjpbMTcxNTUwNDEwN119
 -->
