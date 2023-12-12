@@ -1,4 +1,4 @@
-# Blocos Filhos - Imagens do usuário
+# Blocos Filhos - Imagens denviadas pelo usuário
 ## Importante
 
 Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado pode receber esse bloco como filho e quais são seus blocos filhos aceitos!
@@ -43,5 +43,6 @@ O bloco `yv-review-photo`, tem como papel, retornar as imagens enviadas pelo usu
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzAxMDM2NjNdfQ==
+eyJoaXN0b3J5IjpbLTEwNDk0MDcxNzUsLTE5NzAxMDM2NjNdfQ
+==
 -->
