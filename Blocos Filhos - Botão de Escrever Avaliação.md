@@ -17,7 +17,7 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
 
 ### Nome do bloco
 
-O bloco `yv-writereview-button`, tem como papel, dar a possibilidade de ordenar as avaliações de acordo com a opção selecionado.
+O bloco `yv-writereview-button`, tem como papel, ao clicar, carregar o formulário de avaliação.
 
 **Importante ->** O botão de escrever avaliação deve ser usando juntamente com o bloco do formulário `yv-reviewform-component`, pois ao clicar no botão, o mesmo irá sumir o formulário será carregado. 
 Deixamos a opção de inserir cada um dos blocos separadamente para dar a possibilidade de poder carregar o formulário onde desejar, por exemplo no início ou fim do conteúdo das avaliações.
@@ -52,5 +52,5 @@ Nenhuma
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg4MDMwMjddfQ==
+eyJoaXN0b3J5IjpbMjExOTkwMDcwOF19
 -->
