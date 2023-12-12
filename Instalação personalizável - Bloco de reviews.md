@@ -58,6 +58,16 @@ O bloco de reviews aceita alguns blocos filhos, são eles:
 
 ### Exemplo de uso:
 
+```diff
+// product.jsonc
+"store.product": {
+  "children": [
+	...
++   "yv-product-reviews",
+	...
+  ]
+},
+```
 ```jsonc
 // yourviews-custom.jsonc
 "yv-product-reviews": {
@@ -72,21 +82,11 @@ O bloco de reviews aceita alguns blocos filhos, são eles:
   ]
 },
 ```
-```diff
-// product.jsonc
-"store.product": {
-  "children": [
-	...
-+   "yv-product-reviews",
-	...
-  ]
-},
-```
 
 <br>
 <br>
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODExMjIyMDI0XX0=
+eyJoaXN0b3J5IjpbMTQ5MDc5MjE4XX0=
 -->
