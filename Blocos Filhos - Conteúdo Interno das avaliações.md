@@ -44,7 +44,7 @@ Nenhuma
 ```
 
 ### Visual do Componente
-![](https://i.imgur.com/EJfgcXzfj3fdmW.png)
+![](https://i.imgur.com/fj3fdmW.png)
 
 <br>
 <br>
@@ -52,5 +52,5 @@ Nenhuma
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxODM4NzQ0MV19
+eyJoaXN0b3J5IjpbMzIzNzgxMTBdfQ==
 -->
