@@ -23,6 +23,8 @@ O bloco `yv-writereview-button`, tem como papel, ao clicar, carregar o formulár
 
 Deixamos a opção de inserir cada um dos blocos separadamente para dar a possibilidade de inserir o botão onde desejar e de poder carregar o formulário onde desejar também, por exemplo no início ou fim do conteúdo das avaliações.
 
+`yv-reviewform-component` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Formul%C3%A1rio%20de%20Avalia%C3%A7%C3%A3o.md)
+
 ### Propriedades (props)
 
 Nenhuma
@@ -53,5 +55,5 @@ Nenhuma
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzQzNzc1MjJdfQ==
+eyJoaXN0b3J5IjpbODAzNTU3OTE5XX0=
 -->
