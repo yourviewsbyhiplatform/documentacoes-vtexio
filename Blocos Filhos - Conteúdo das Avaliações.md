@@ -11,7 +11,7 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
 
 ### Blocos filhos aceitos:
 
- - `yv-content-review` [(documentação)](#) 
+ - `yv-content-review` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Conte%C3%BAdo%20Interno%20das%20avalia%C3%A7%C3%B5es.md) 
 
 ## Usabilidade
 
@@ -49,5 +49,5 @@ O bloco `yv-reviews-content`, tem como papel, apenas envolver o conteúdo de cad
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTI1Mjg4Ml19
+eyJoaXN0b3J5IjpbODU3ODExMjQ4XX0=
 -->
