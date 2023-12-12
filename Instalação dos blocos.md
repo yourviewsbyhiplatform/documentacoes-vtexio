@@ -15,7 +15,7 @@ Um dos requisitos obrigatórios é possui o app da yourviews instalado na sua lo
 
 Atualmente existem dois modelos de inserção dos blocos da yourviews, o modelo padrão, onde os blocos pais são inseridos normalmente e esses blocos renderizam os elementos da yourviews de acordo com o template/layout escolhido no processo de onboarding da hiplatform, e também o modelo personalizável, onde cada bloco pai, pode receber alguns blocos filhos que compõem o elemento, assim, podendo personalizar a sua estruturada para uma personalização mais elaborada.
 
-<br>
+<hr>
 
 ### Modelo Padrão
 
@@ -36,8 +36,7 @@ Link: [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/
 #### Estrelas de prateleiras (quickreviews)
 Link: [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instala%C3%A7%C3%A3o%20padr%C3%A3o%20-%20bloco%20das%20estrelas%20de%20prateleira.md)
 
-<br>
-<br>
+<hr>
 
 ### Modelo Personalizável
 
@@ -73,5 +72,5 @@ Link: [clique aqui](#)
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMjI4ODYzMSw5MzQxMjY4OTNdfQ==
+eyJoaXN0b3J5IjpbOTM5NzUzMjkzXX0=
 -->
