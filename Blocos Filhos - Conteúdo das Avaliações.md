@@ -11,7 +11,7 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
 
 ### Blocos filhos aceitos:
 
- - `yv-content-review` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Flex%20Box.md) 
+ - `yv-content-review` [(documentação)](#) 
 
 ## Usabilidade
 
@@ -49,5 +49,5 @@ O bloco `yv-reviews-content`, tem como papel, apenas envolver o conteúdo de cad
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDgzNzE5NzVdfQ==
+eyJoaXN0b3J5IjpbMTk0NTI1Mjg4Ml19
 -->
