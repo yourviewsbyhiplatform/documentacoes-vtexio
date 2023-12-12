@@ -88,5 +88,5 @@ O bloco de reviews aceita alguns blocos filhos, são eles:
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3Nzc3MTY0LDE0OTA3OTIxOF19
+eyJoaXN0b3J5IjpbODc3Nzc3MTY0XX0=
 -->
