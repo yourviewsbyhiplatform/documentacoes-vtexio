@@ -20,7 +20,8 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
 O bloco `yv-writereview-button`, tem como papel, ao clicar, carregar o formulário de avaliação.
 
 **Importante ->** O botão de escrever avaliação deve ser usando juntamente com o bloco do formulário `yv-reviewform-component`, pois ao clicar no botão, o mesmo irá sumir o formulário será carregado. 
-Deixamos a opção de inserir cada um dos blocos separadamente para dar a possibilidade de poder carregar o formulário onde desejar, por exemplo no início ou fim do conteúdo das avaliações.
+
+Deixamos a opção de inserir cada um dos blocos separadamente para dar a possibilidade de inserir o botão onde desejar e de poder carregar o formulário onde desejar também, por exemplo no início ou fim do conteúdo das avaliações.
 
 ### Propriedades (props)
 
@@ -52,5 +53,5 @@ Nenhuma
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExOTkwMDcwOF19
+eyJoaXN0b3J5IjpbLTE2MzQzNzc1MjJdfQ==
 -->
