@@ -51,11 +51,14 @@ O bloco `yv-store-comment`, tem como papel, retornar o comentário e data do com
 },
 ```
 
+### Visual do Componente
+![](https://i.imgur.com/EJfgcXz.png)
+
 <br>
 <br>
 
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMTg4MjA3OV19
+eyJoaXN0b3J5IjpbLTYwMzcxNzczOV19
 -->
