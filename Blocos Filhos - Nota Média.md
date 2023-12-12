@@ -52,6 +52,5 @@ O bloco `yv-rating-average`, tem como papel, apresentar a nota média dentro do 
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTcwODMxMzEsLTE3NDA3MDk5MzddfQ
-==
+eyJoaXN0b3J5IjpbLTEyNTcwODMxMzFdfQ==
 -->
