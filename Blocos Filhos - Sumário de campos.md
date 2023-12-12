@@ -11,7 +11,7 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
 
 ### Blocos filhos aceitos:
 
- - `yv-field-summary-title` (Titulo do campo) [(documentação)](#)
+ - `yv-field-summary-title` (Titulo do campo) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Titulo%20Sumario%20de%20Campos.md)
  - `yv-rating-stars` (Estrelas) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Estrelas.md)
  - `yv-rating-average` (Nota Média) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Nota%20M%C3%A9dia.md)
  - `yv-total-rating` (Total de avaliações) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Total%20de%20Avalia%C3%A7%C3%B5es.md)
@@ -57,5 +57,5 @@ O bloco `yv-reviews-field-summary`, tem como papel, apenas englobar todo os bloc
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDI1OTkyNzZdfQ==
+eyJoaXN0b3J5IjpbLTExNjM0NzcyODZdfQ==
 -->
