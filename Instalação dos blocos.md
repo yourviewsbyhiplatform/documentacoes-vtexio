@@ -47,16 +47,16 @@ Para efetuar a inserção dos elementos blocos da yourviews no modelo personaliz
 Link: [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instala%C3%A7%C3%A3o%20personaliz%C3%A1vel%20-%20Bloco%20das%20estrelas%20de%20ancoragem.md)
 
 #### Listagem de avaliações (reviews)
-Link: [clique aqui](#)
+Link: [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instala%C3%A7%C3%A3o%20personaliz%C3%A1vel%20-%20Bloco%20de%20reviews.md)
 
 #### Perguntas e Respostas (questions & answers)
-Link: [clique aqui](#)
+Link: [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instala%C3%A7%C3%A3o%20personaliz%C3%A1vel%20-%20Bloco%20de%20perguntas%20e%20respostas.md)
 
 #### Avaliações da loja / Testemunhos (testimonials)
 Link: [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instala%C3%A7%C3%A3o%20personaliz%C3%A1vel%20-%20Bloco%20dos%20testemunhos.md)
 
 #### Estrelas de prateleiras (quickreviews)
-Link: [clique aqui](#)
+Link: [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instala%C3%A7%C3%A3o%20personaliz%C3%A1vel%20-%20Bloco%20das%20estrelas%20de%20prateleira.md)
 
 ### Blocos Extras para personalização
 
@@ -71,5 +71,5 @@ Link: [clique aqui](#)
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTM2NTE1NF19
+eyJoaXN0b3J5IjpbOTM0MTI2ODkzXX0=
 -->
