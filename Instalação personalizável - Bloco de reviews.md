@@ -46,7 +46,7 @@ O bloco de reviews aceita alguns blocos filhos, são eles:
  - `yv-reviews-details` (Detalhes) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Detalhes%20das%20avalia%C3%A7%C3%B5es.md)
  - `yv-reviews-field-summary` (Sumário) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Sum%C3%A1rio%20de%20campos.md)
  - `yv-orderby-select` (Ordenação) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Campo%20de%20Ordena%C3%A7%C3%A3o.md)
- - `yv-reviews-content` (Conteúdo) [(documentação)](#)
+ - `yv-reviews-content` (Conteúdo) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Conte%C3%BAdo%20das%20Avalia%C3%A7%C3%B5es.md)
  - `yv-writereview-button` (Botão de escrever avaliação) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Bot%C3%A3o%20de%20Escrever%20Avalia%C3%A7%C3%A3o.md)
  - `yv-reviewform-component` (Formulário de avaliação) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Formul%C3%A1rio%20de%20Avalia%C3%A7%C3%A3o.md)
  - `yv-flex` (Flex Box) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Flex%20Box.md)
@@ -88,5 +88,5 @@ O bloco de reviews aceita alguns blocos filhos, são eles:
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MDc5MjE4XX0=
+eyJoaXN0b3J5IjpbODc3Nzc3MTY0LDE0OTA3OTIxOF19
 -->
