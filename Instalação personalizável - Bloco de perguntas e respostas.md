@@ -43,7 +43,7 @@ Para a personalização do bloco reviews, pode-se adicionar alguns blocos filhos
 O bloco de perguntas e respostas aceita alguns blocos filhos, são eles:
 
  - `yv-title` (Título) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20T%C3%ADtulo.md)
- - `yv-subtitle` (Sub título) [(documentação)](#)
+ - `yv-subtitle` (Sub título) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Subt%C3%ADtulo.md)
  - `yv-question-button` (Botão para fazer pergunta) [(documentação)](#)
  - `yv-qa-content` (Conteúdo) [(documentação)](#)
  - `yv-flex` (Flex Box) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Flex%20Box.md)
@@ -82,5 +82,5 @@ Nenhuma
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NDUzODA0NF19
+eyJoaXN0b3J5IjpbLTIxMTMxMTc2MDFdfQ==
 -->
