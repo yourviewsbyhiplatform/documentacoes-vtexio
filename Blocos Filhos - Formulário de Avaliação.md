@@ -23,7 +23,7 @@ O bloco `yv-reviewform-component`, tem como papel, exibir o formulário de avali
 
 Deixamos a opção de inserir cada um dos blocos separadamente para dar a possibilidade de inserir o botão onde desejar e de poder carregar o formulário onde desejar também, por exemplo no início ou fim do conteúdo das avaliações.
 
-`yv-reviewform-component` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Bot%C3%A3o%20de%20Escrever%20Avalia%C3%A7%C3%A3o.md)
+`yv-writereview-button` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Bot%C3%A3o%20de%20Escrever%20Avalia%C3%A7%C3%A3o.md)
 
 ### Propriedades (props)
 
@@ -54,5 +54,5 @@ Nenhuma
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0OTc1MDI1LC0zMzYxMTc0NDddfQ==
+eyJoaXN0b3J5IjpbLTEzNzE0MDUwMDNdfQ==
 -->
