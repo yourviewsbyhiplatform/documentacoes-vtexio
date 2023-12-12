@@ -9,9 +9,9 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
  - `yv-testimonials-content` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Conte%C3%BAdo%20Testemunhos.md)
  - `yv-product-rating-inline` [(documentação)](#)
  - `yv-product-rating-summary` [(documentação)](#)
- - `yv-reviews-details` [(documentação)](#)
- - `yv-reviews-field-summary` [(documentação)](#)
- - `yv-content-review` [(documentação)](#)
+ - `yv-reviews-details` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Detalhes%20das%20avalia%C3%A7%C3%B5es.md)
+ - `yv-reviews-field-summary` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Sum%C3%A1rio%20de%20campos.md)
+ - `yv-content-review` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Conte%C3%BAdo%20Interno%20das%20avalia%C3%A7%C3%B5es.md)
  - `yv-flex` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Flex%20Box.md)
 
 ### Blocos filhos aceitos:
@@ -52,5 +52,5 @@ O bloco `yv-rating-stars`, tem como papel, apresentar as estrelas de acordo com 
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDY5NzI1NDNdfQ==
+eyJoaXN0b3J5IjpbMTYwNjk1NDQ3OSwtMTEwNjk3MjU0M119
 -->
