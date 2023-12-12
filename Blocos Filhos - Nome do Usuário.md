@@ -9,7 +9,7 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
  - `yv-testimonials-content` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Conte%C3%BAdo%20Testemunhos.md)
  - `yv-qa-content-question` [(documentação)](#)
  - `yv-qa-content-answer` [(documentação)](#)
- - `yv-content-review` [(documentação)](#)
+ - `yv-content-review` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Conte%C3%BAdo%20Interno%20das%20avalia%C3%A7%C3%B5es.md)
  - `yv-flex` [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Flex%20Box.md)
 
 ### Blocos filhos aceitos:
@@ -53,5 +53,5 @@ ou
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODkxNzAxMTFdfQ==
+eyJoaXN0b3J5IjpbOTAxMjA1MjU5XX0=
 -->
