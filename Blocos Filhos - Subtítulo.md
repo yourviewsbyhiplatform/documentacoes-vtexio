@@ -19,6 +19,15 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
 
 O bloco `yv-subtitle`, tem como papel, apresentar um subtítulo dentro do bloco pai.
 
+### Propriedades (props)
+
+O bloco de título pode receber duas propriedades importantes para a personalização, são elas:
+
+ - `text` - Texto que será exibido pelo componente
+ - `className` - Texto para ser usado como classe do componente (handlers)
+
+### Exemplo de uso:
+
 ```diff
 "yv-product-questions-and-answers": {
   "children": [
@@ -34,37 +43,8 @@ O bloco `yv-subtitle`, tem como papel, apresentar um subtítulo dentro do bloco 
 },
 ```
 
-### Propriedades (props)
-
-O bloco de título pode receber duas propriedades importantes para a personalização, são elas:
-
- - `text` - Texto que será exibido pelo componente
- - `className` - Texto para ser usado como classe do componente (handlers)
-
-### Exemplo de uso:
-
-```jsonc
-// yourviews-custom.jsonc
-"yv-testimonials": {
-  "props": {
-    ...
-  },
-  "children": [
-    "yv-title#testimonial", 
-    ...
-  ]
-},
-
-"yv-title#testimonial": {
-  "props": {
-    "text": "Avaliações da nossa loja"
-    "className": "testimonialsTitle"
-  }
-},
-```
-
 ### Visual do Componente
-![](https://i.imgur.com/wMSjjIU.png)
+![](https://i.imgur.com/Fj1tG0N.png)
 
 <br>
 <br>
@@ -72,5 +52,5 @@ O bloco de título pode receber duas propriedades importantes para a personaliza
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODE5ODk1MV19
+eyJoaXN0b3J5IjpbMTI2NzkxMjg4N119
 -->
