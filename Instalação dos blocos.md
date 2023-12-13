@@ -42,7 +42,7 @@ Link: [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/
 
 Para efetuar a inserção dos elementos blocos da yourviews no modelo personalizável, basta acessar cada link abaixo de cada elemento que você deseja inserir, em cada elemento haverá uma documentação interna com cada bloco filho aceito e qual a sua funcionalidade.
 
-**Importante** Quando os blocos são passados sem filhos, automaticamente eles exibem o conteúdo padrão.
+**Importante -** Quando os blocos são passados sem filhos, automaticamente eles exibem o conteúdo padrão.
 
 #### Estrelas da página de produto (quickreview)
 Link: [clique aqui](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Instala%C3%A7%C3%A3o%20personaliz%C3%A1vel%20-%20Bloco%20das%20estrelas%20de%20ancoragem.md)
@@ -74,5 +74,5 @@ Link: [clique aqui](#)
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjM4Mzg1NjMsOTM5NzUzMjkzXX0=
+eyJoaXN0b3J5IjpbLTU5NzU0MTIwMF19
 -->
