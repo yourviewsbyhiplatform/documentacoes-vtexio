@@ -12,8 +12,8 @@ Para utilizar esse bloco, é necessário verificar se o bloco pai a ser usado po
 
 ### Blocos filhos aceitos:
 
-- `yv-qa-content-question` (Conteúdo das perguntas) [(documentação)](#)
-- `yv-qa-content-answer` (Conteúdo das respostas) [(documentação)](#)
+- `yv-qa-content-question` (Conteúdo das perguntas) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Conte%C3%BAdo%20das%20Perguntas.md)
+- `yv-qa-content-answer` (Conteúdo das respostas) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Conte%C3%BAdo%20das%20respostas.md)
  
 ## Usabilidade
 
@@ -47,5 +47,5 @@ Nenhum
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MTA4NDU3MF19
+eyJoaXN0b3J5IjpbMTQ0Njg1NDA1N119
 -->
