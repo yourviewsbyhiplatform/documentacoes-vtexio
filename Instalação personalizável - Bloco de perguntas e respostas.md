@@ -45,7 +45,7 @@ O bloco de perguntas e respostas aceita alguns blocos filhos, são eles:
  - `yv-title` (Título) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20T%C3%ADtulo.md)
  - `yv-subtitle` (Sub título) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Subt%C3%ADtulo.md)
  - `yv-question-button` (Botão de pergunta) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Bot%C3%A3o%20de%20pergunta.md)
- - `yv-qa-content` (Conteúdo) [(documentação)](#)
+ - `yv-qa-content` (Conteúdo) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Conte%C3%BAdo%20das%20perguntas%20e%20respostas.md)
  - `yv-flex` (Flex Box) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Flex%20Box.md)
  - `yv-rich-text` (Texto) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Texto.md)
 
@@ -82,5 +82,5 @@ Nenhuma
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk2ODc5ODM3XX0=
+eyJoaXN0b3J5IjpbNDIxOTIxMDE4LDI5Njg3OTgzN119
 -->
