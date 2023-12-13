@@ -48,7 +48,6 @@ O bloco de reviews aceita alguns blocos filhos, são eles:
  - `yv-orderby-select` (Ordenação) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Campo%20de%20Ordena%C3%A7%C3%A3o.md)
  - `yv-reviews-content` (Conteúdo) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Conte%C3%BAdo%20das%20Avalia%C3%A7%C3%B5es.md)
  - `yv-writereview-button` (Botão de escrever avaliação) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Bot%C3%A3o%20de%20Escrever%20Avalia%C3%A7%C3%A3o.md)
- - `yv-reviewform-component` (Formulário de avaliação) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Formul%C3%A1rio%20de%20Avalia%C3%A7%C3%A3o.md)
  - `yv-flex` (Flex Box) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Flex%20Box.md)
  - `yv-rich-text` (Texto) [(documentação)](https://github.com/yourviewsbyhiplatform/documentacoes/blob/master/Blocos%20Filhos%20-%20Texto.md)
 
@@ -78,7 +77,6 @@ O bloco de reviews aceita alguns blocos filhos, são eles:
     "yv-title#reviews",
     "yv-reviews-content",
     "yv-writereview-button",
-    "yv-reviewform-component"
   ]
 },
 ```
@@ -88,5 +86,5 @@ O bloco de reviews aceita alguns blocos filhos, são eles:
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc3Nzc3MTY0XX0=
+eyJoaXN0b3J5IjpbMTc3NjMwNTY1XX0=
 -->
