@@ -35,7 +35,6 @@ Nenhuma
     "yv-title#reviews",
     "yv-reviews-content",
     "yv-writereview-button",
-    "yv-reviewform-component"
   ]
 },
 ```
@@ -49,5 +48,5 @@ Nenhuma
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQxNTA4ODYxXX0=
+eyJoaXN0b3J5IjpbLTg2MTUxMjg0NSw3NDE1MDg4NjFdfQ==
 -->
