@@ -92,12 +92,12 @@ Nenhum
 ```
 
 ### Visual do Componente
-![](https://i.imgur.com/xqmOYwc.png)
+![](https://i.imgur.com/XVCLZJA.png)
 
 <br>
 <br>
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2NzkyMTkwNV19
+eyJoaXN0b3J5IjpbLTE0ODY4MTE5MTldfQ==
 -->
