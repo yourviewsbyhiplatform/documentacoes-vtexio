@@ -35,7 +35,6 @@ O bloco `yv-reviews-content`, tem como papel, apenas envolver o conteúdo de cad
     "yv-title#reviews",
 +   "yv-reviews-content",
     "yv-writereview-button",
-    "yv-reviewform-component"
   ]
 },
 + "yv-reviews-content": {
@@ -49,5 +48,5 @@ O bloco `yv-reviews-content`, tem como papel, apenas envolver o conteúdo de cad
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU3ODExMjQ4XX0=
+eyJoaXN0b3J5IjpbMTA5NzIwMjQzNF19
 -->
