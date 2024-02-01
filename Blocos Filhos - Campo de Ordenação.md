@@ -21,7 +21,7 @@ O bloco `yv-orderby-select`, tem como papel, dar a possibilidade de ordenar as a
 
 ### Propriedades (props)
 
-Nenhuma
+ - `orderBy` - Recebe um número que i
 
 ### Exemplo de uso:
 
@@ -48,5 +48,5 @@ Nenhuma
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTUxMjg0NV19
+eyJoaXN0b3J5IjpbMjEzOTc5MDY0NSwtODYxNTEyODQ1XX0=
 -->
