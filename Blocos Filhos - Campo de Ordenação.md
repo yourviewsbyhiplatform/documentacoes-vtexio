@@ -45,6 +45,11 @@ O bloco `yv-orderby-select`, tem como papel, dar a possibilidade de ordenar as a
     "yv-writereview-button",
   ]
 },
+"yv-orderby-select": {
+  "props": {
+    "orderBy": 2
+  }
+},
 ```
 
 ### Visual do Componente
@@ -56,5 +61,5 @@ O bloco `yv-orderby-select`, tem como papel, dar a possibilidade de ordenar as a
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMzIxMTEwNiwtNjI1MDk0NDc3XX0=
+eyJoaXN0b3J5IjpbLTEzNDIyMTQ1MDVdfQ==
 -->
