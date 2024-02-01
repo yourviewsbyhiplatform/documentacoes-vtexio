@@ -22,12 +22,12 @@ O bloco `yv-orderby-select`, tem como papel, dar a possibilidade de ordenar as a
 ### Propriedades (props)
 
  - `orderBy` - Recebe um número que indica o filtro inicial da ordenação das avaliações, escolha um numero inteiro entre 0 e 5, sendo:
-	 - 0 para Mais antigos primeiro
-	 - 1 para Mais novos primeiro
-	 - 2 para Mais antigos primeiro
-	 - 3 para Mais antigos primeiro
-	 - 4 para Mais antigos primeiro
-	 - 5 para Mais antigos primeiro
+	 - **0** para Mais antigos primeiro (padrão)
+	 - **1** para Mais novos primeiro
+	 - **2** para Mais antigos primeiro
+	 - **3** para Melhores notas primeiro
+	 - **4** para Mais curtidas primeiro
+	 - **5** para Mais descurtidas primeiro
 
 ### Exemplo de uso:
 
@@ -54,5 +54,5 @@ O bloco `yv-orderby-select`, tem como papel, dar a possibilidade de ordenar as a
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzY4MjA4NzAsLTg2MTUxMjg0NV19
+eyJoaXN0b3J5IjpbLTYyNTA5NDQ3N119
 -->
