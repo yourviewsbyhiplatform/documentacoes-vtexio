@@ -29,6 +29,8 @@ O bloco `yv-orderby-select`, tem como papel, dar a possibilidade de ordenar as a
 	 - **4** para Mais curtidas primeiro
 	 - **5** para Mais descurtidas primeiro
 
+![](https://i.imgur.com/QjHmvrl.png)
+
 ### Exemplo de uso:
 
 ```diff
@@ -54,5 +56,5 @@ O bloco `yv-orderby-select`, tem como papel, dar a possibilidade de ordenar as a
 **Pronto!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNTA5NDQ3N119
+eyJoaXN0b3J5IjpbLTYxMzIxMTEwNiwtNjI1MDk0NDc3XX0=
 -->
