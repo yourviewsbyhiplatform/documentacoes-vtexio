@@ -38,13 +38,13 @@ Insira novamente todos os elementos e blocos da yourviews e instale corretamente
 
 Use o comando `vtex browse` para que uma aba no navegador seja aberta e copie a URL desse ambiente que será normalmente o nome 
 `{nome_do_workspace}--{nome_da_loja}.myvtex.com`
-e envie para a equipe de suporte da HiPlatform / Yourviews
+e envie para a equipe de suporte da HiPlatform / Yourviews para que possamos fazer os devidos testes e análises dos devidos erros que possam estar ocorrendo.
 
 ### Finalização
 
 **Pronto!**
 
-O acesso para a yourviews está pronto junto com o workspace
+O acesso para a yourviews está pronto junto com o workspace para testes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NDkzMjc4NCwxMTgzOTg1ODg0XX0=
+eyJoaXN0b3J5IjpbLTM3NTc1NzYyOF19
 -->
