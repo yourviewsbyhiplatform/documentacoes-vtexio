@@ -32,7 +32,11 @@ Crie um novo workspace chamado `yourviewstest` usando o comando `vtex use yourvi
 Exemplo:
 ![](https://i.imgur.com/8M4iHbg.png)
 
-Após a criação do workspace, basta usar o comando `vtex browse` que uma aba no navegador será aberto, copie a URL desse ambiente que será normalmente o nome 
+Após a criação do workspace:
+
+Insira novamente todos os elementos e blocos da yourviews e instale corretamente o app da Yourviews apenas neste workspace de desenvolvimento.
+
+Use o comando `vtex browse` para que uma aba no navegador seja aberta e copie a URL desse ambiente que será normalmente o nome 
 `{nome_do_workspace}--{nome_da_loja}.myvtex.com`
 e envie para a equipe de suporte da HiPlatform / Yourviews
 
@@ -42,5 +46,5 @@ e envie para a equipe de suporte da HiPlatform / Yourviews
 
 O acesso para a yourviews está pronto junto com o workspace
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4Mzk4NTg4NF19
+eyJoaXN0b3J5IjpbLTI4NDkzMjc4NCwxMTgzOTg1ODg0XX0=
 -->
