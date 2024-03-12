@@ -25,7 +25,7 @@ Help de ajuda da VTEX: [https://developers.vtex.com/docs/guides/how-to-interacti
 
 Usando esse método, será possível passar o mouse sobre os componentes da loja e visualizar seus blocos e classes como no exemplo abaixo:
 
-![](https://cdn.document360.io/fbdc20e9-fffd-4203-8df2-642bdec311ea/Images/Documentation/image-1690917397166.png)
+![](https://i.imgur.com/lmcFMDc.png)
 
 É possível notar que as estrelas estão atribuídas à classe `.ratingStarsActive`
 
@@ -34,15 +34,15 @@ Usando esse método, será possível passar o mouse sobre os componentes da loja
 #### Passo 1
 
 Criar o arquivo css, dentro da pasta `styles` da sua loja usando o nome `yourviews.yourviewsreviews.css`
-![](https://cdn.document360.io/fbdc20e9-fffd-4203-8df2-642bdec311ea/Images/Documentation/image-1690917419984.png)
+![](https://i.imgur.com/jkSEV3s.png)
 
 #### Passo 2
 Criar a classe css e atribuir a propriedade `fill` como no exemplo abaixo:
-![](https://cdn.document360.io/fbdc20e9-fffd-4203-8df2-642bdec311ea/Images/Documentation/image-1690917431324.png)
+![](https://i.imgur.com/poeVTo6.png)
 
 #### Passo 3
 Salve o arquivo e execute o comando `vtex link` para que essa alteração reflita no workspace.
-![](https://cdn.document360.io/fbdc20e9-fffd-4203-8df2-642bdec311ea/Images/Documentation/image-1690917463708.png)
+![](https://i.imgur.com/LgJTwDp.png)
 
 ### Finalização
 
@@ -50,5 +50,5 @@ Salve o arquivo e execute o comando `vtex link` para que essa alteração reflit
 
 Agora a personalização do tema dos blocos da yourviews está finalizada ao seu gosto como desejar.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxNDk1NDY2OV19
+eyJoaXN0b3J5IjpbMTY1MDkxODkxMV19
 -->
