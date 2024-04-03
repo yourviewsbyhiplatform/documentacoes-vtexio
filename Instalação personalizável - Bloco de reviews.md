@@ -54,6 +54,13 @@ O bloco de reviews aceita alguns blocos filhos, são eles:
 #### Propriedades (props)
 
  - `hideButtonReview` - Recebe `true` ou `false` - Quando `true` remove o botão de escrever avaliação. (Útil para quando não existe personalização no bloco, ou seja, quando não possui blocos filhos)
+ - `orderBy` - Recebe um número que indica o filtro inicial da ordenação das avaliações, escolha um numero inteiro entre 0 e 5, sendo:
+	0 para Mais antigos primeiro (padrão)
+	1 para Mais novos primeiro
+	2 para Mais antigos primeiro
+	3 para Melhores notas primeiro
+	4 para Mais curtidas primeiro
+	5 para Mais descurtidas primeiro
 
 ### Exemplo de uso:
 
