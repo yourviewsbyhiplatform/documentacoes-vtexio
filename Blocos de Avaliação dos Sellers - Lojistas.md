@@ -13,7 +13,11 @@ Um dos requisitos obrigatórios é possui o app da yourviews instalado na sua lo
 
 Este recurso dentro da VTEX tem como função retornar as avaliações resumidas e detalhadas dos lojistas/sellers da VTEX IO.
 
-A Yourviews possui **2 blocos** para exibir as avaliações do lojista: o bloco `product-seller-rating-inline`e o bloco `product-seller-infos`. Confira-os detalhadamente a seguir:
+A Yourviews possui **2 blocos** para exibir as avaliações do lojista: 
+o bloco `product-seller-rating-inline`
+e o bloco `product-seller-infos`. 
+
+Confira-os detalhadamente a seguir:
 
 <hr>
 
@@ -190,5 +194,5 @@ Exemplo:
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODM2NjcyXX0=
+eyJoaXN0b3J5IjpbLTIwODE4OTUxNjBdfQ==
 -->
