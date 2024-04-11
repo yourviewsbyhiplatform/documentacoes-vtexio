@@ -1,6 +1,4 @@
-# Instalação dos elementos / blocos da yourviews na vtexio
-
-Para que os elementos da yourviews sejam exibidos em seu site, como por exemplo, estrelas, etc, é necessário efetuar a inserção dos dos blocos dos elementos no código do tema da sua loja.
+# Instalação dos blocos de lojista / sellers na VTEX IO
 
 ## Requisitos
 
@@ -192,5 +190,5 @@ Exemplo:
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4OTc0NDM4OV19
+eyJoaXN0b3J5IjpbLTQxODM2NjcyXX0=
 -->
