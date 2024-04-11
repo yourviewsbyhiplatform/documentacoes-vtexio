@@ -89,6 +89,7 @@ Geralmente essa declaração fica no mesmo arquivo de onde foi inserido o bloco.
 ### Bloco: Estrelas da avaliação detalhada do lojista ou seller (`product-seller-infos`)
 
 O segundo bloco são as notas de cada informação configuradas no formulário da Yourviews:
+
 ![](https://i.imgur.com/NUtVC2S.png)
 
 Essas informações e textos são retornadas no bloco de informações do lojista aqui do APP da Yourviews, e a sua inserção é parecida com o bloco anterior, e geralmente esse bloco é inserido na página do lojista, ou via popup por exemplo:
@@ -194,5 +195,5 @@ Exemplo:
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODQ0ODQ5ODNdfQ==
+eyJoaXN0b3J5IjpbLTc5ODY4NjE1M119
 -->
