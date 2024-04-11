@@ -30,8 +30,8 @@ Geralmente esse bloco se encontra na PDP, acompanhado do nome do lojista e o buy
 
 A Yourviews precisa obter o **Id do Lojista** via `prop` pelo React, sendo assim é necessário ser criado um bloco pelo cliente usando o builder React na VTEX e passar uma propriedade com o  **sellerId**  (visualize nos exemplos abaixo).
 
-Existe também uma documentação da VTEX para ajuda, de como passar uma prop para um componentes, basta  [clicar aqui](https://developers.vtex.com/docs/guides/vtex-io-documentation-composition).
-E Também como criar uma um bloco em react na vtex usando o buildar React, para isso [clique aqui](https://developers.vtex.com/docs/guides/vtex-io-documentation-4-declaring-a-theme-block)
+Existe também uma documentação da VTEX para ajuda, de como passar uma prop para um componente, basta  [clicar aqui](https://developers.vtex.com/docs/guides/vtex-io-documentation-composition).
+E Também como criar uma um bloco em react na vtex usando o builder React, para isso [clique aqui](https://developers.vtex.com/docs/guides/vtex-io-documentation-4-declaring-a-theme-block)
 
 Após tudo pronto, poderá seguir o passo a passo abaixo:
 
@@ -194,5 +194,5 @@ Exemplo:
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE4OTUxNjBdfQ==
+eyJoaXN0b3J5IjpbLTEwODQ0ODQ5ODNdfQ==
 -->
