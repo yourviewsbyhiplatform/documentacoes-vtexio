@@ -130,6 +130,7 @@ Para isso é necessário a criação de um bloco pelo cliente usando o builder R
 Existe uma documentação da VTEX para ajuda aqui: [https://developers.vtex.com/docs/guides/vtex-io-documentation-composition](https://developers.vtex.com/docs/guides/vtex-io-documentation-composition)
 
 Exemplo: 
+
 ![](https://i.imgur.com/Buu4rzS.png)
 
 O segundo componente onde será exibido as avaliações detalhadas do seller, pode ser dentro de um **popup** ou então em uma **nova pagina** que seria a pagina do próprio Lojista/Seller
@@ -195,5 +196,5 @@ Exemplo:
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODY4NjE1M119
+eyJoaXN0b3J5IjpbLTE4NzgyMDk1OTFdfQ==
 -->
