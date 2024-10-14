@@ -26,11 +26,22 @@ Isso garantirá que o formulário será carregado.
 O próximo passo é criar uma rota dedicada para a página de "escrever avaliação". Essa rota será adicionada ao arquivo JSON de rotas (```routes.json```) do repositório da loja, permitindo que os clientes acessem a página de avaliação diretamente.
   
 ![Instalação do bloco Exemplo](https://i.imgur.com/7uVh54i.png)
-## Terceiro passo: Envolver o formulário com o header e o footer do seu site
+## Terceiro passo: Envolver o Formulário com o Header e o Footer
+
+Para tornar o formulário mais atrativo e consistente com o visual do site, o cliente pode envolver o formulário com o header e o footer do próprio site. Isso permitirá que o formulário se integre de forma mais harmônica ao layout existente.
+
+####  Como Fazer
+Para envolver o formulário com o header e o footer, o cliente deve abrir novamente o arquivo JSON do bloco do formulário (```write-review.json```) e fazer o seguinte:
+
+1. Localize o JSON do formulário já criado.
+2. Envolva o conteúdo do formulário com os blocos correspondentes ao header e ao footer da loja.
 
 
 ![Instalação do bloco Exemplo](https://i.imgur.com/XwTaPFj.png)
+
+### 
 **Pronto!**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwMzIzNDI1LDEyNzI5NDU1MTRdfQ==
+eyJoaXN0b3J5IjpbLTE2MDY3OTc3MzYsMzYwMzIzNDI1LDEyNz
+I5NDU1MTRdfQ==
 -->
