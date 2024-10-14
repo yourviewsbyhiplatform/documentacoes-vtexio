@@ -4,6 +4,9 @@
 # Como criar sua própria página de Write Review na VTEXIO
 
 
+Nosso aplicativo da YourViews na VTEX IO já cria automaticamente um formulário padrão na rota ```new-review```. No entanto, alguns clientes utilizam header e footer personalizados, o que pode resultar na não exibição correta desse formulário.
+
+Para resolver essa questão, o cliente tem a opção de criar uma nova rota de formulário, vinculando-a ao bloco fornecido pela YourViews. Isso garante que o formulário será exibido corretamente, respeitando os elementos de customização aplicados no header e footer do cliente.
   
 ## Primeiro Passo: Criação do JSON do Bloco de Formulário
 
@@ -21,7 +24,6 @@ Certifique-se de seguir a estrutura abaixo como exemplo:
 		]
 	},
 }
-
 ```
 Isso garantirá que o formulário será carregado.
 ## Segundo passo: Criar rota
@@ -45,6 +47,6 @@ Para envolver o formulário com o header e o footer, o cliente deve abrir novame
 ![Instalação do bloco Exemplo](https://i.imgur.com/UM4XNu7.png)
 **Pronto!**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3Mzg3ODUwODksMzYwMzIzNDI1LDEyNz
-I5NDU1MTRdfQ==
+eyJoaXN0b3J5IjpbLTIwNjY5NzMyNTcsLTE3Mzg3ODUwODksMz
+YwMzIzNDI1LDEyNzI5NDU1MTRdfQ==
 -->
