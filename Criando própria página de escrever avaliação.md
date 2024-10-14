@@ -6,7 +6,7 @@
 ## Primeiro Passo: Criação do JSON do Bloco de Formulário
 
 O primeiro passo para integrar o bloco de formulário no repositório da loja do cliente é criar o arquivo JSON que servirá como estrutura do formulário.
-![Instalação do bloco Exemplo](https://imgur.com/a/LQ86HAM)
+![Instalação do bloco Exemplo](https://i.imgur.com/4Trl5pf.png)
 
 ### Estrutura do JSON
 Certifique-se de seguir a estrutura abaixo como exemplo:
@@ -21,7 +21,9 @@ Certifique-se de seguir a estrutura abaixo como exemplo:
 }
 
 ```
-Isso garantirá que 
+Isso garantirá que o formulário será carregado.
+## Primeiro Passo: Criação do JSON do Bloco de Formulário
+
   
 
 ## Requisitos  
@@ -59,5 +61,5 @@ servicedesk@hiplatform.com
 
 **Pronto!**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4ODc4NTQ4MiwxMjcyOTQ1NTE0XX0=
+eyJoaXN0b3J5IjpbMTc3ODQ3NTU4NSwxMjcyOTQ1NTE0XX0=
 -->
