@@ -6,39 +6,60 @@
 ## Primeiro Passo: Criação do JSON do Bloco de Formulário
 
 O primeiro passo para integrar o bloco de formulário no repositório da loja do cliente é criar o arquivo JSON que servirá como estrutura do formulário.
-![Instalação do bloco Exemplo](https://imgur.com/NUS4JYT.png)
+![Instalação do bloco Exemplo](https://imgur.com/a/LQ86HAM)
 
 ### Estrutura do JSON
 Certifique-se de seguir a estrutura abaixo como exemplo:
 
 ```json
 {
-  "formBlock": {
-    "title": "Formulário de Contato",
-    "fields": [
-      {
-        "label": "Nome",
-        "type": "text",
-        "placeholder": "Insira seu nome",
-        "required": true
-      },
-      {
-        "label": "Email",
-        "type": "email",
-        "placeholder": "Insira seu email",
-        "required": true
-      },
-      {
-        "label": "Mensagem",
-        "type": "textarea",
-        "placeholder": "Digite sua mensagem",
-        "required": true
-      }
-    ],
-    "submitButton": {
-      "text": "Enviar"
-    }
-  }
+
+"store.custom#write-review": {
+
+	"blocks": [
+
+		"rich-text#yv-header",
+
+		"yv-product-review-form",
+
+		"rich-text#yv-footer"
+
+	]
+
+},
+
+"rich-text#yv-header": {
+
+	"props": {
+
+		"textAlignment":  "CENTER",
+
+		"textPosition":  "CENTER",
+
+		"text":  "**HEADER**",
+
+		"font":  "t-heading-1"
+
+	}
+
+},
+
+	"rich-text#yv-footer": {
+
+		"props": {
+
+			"textAlignment":  "CENTER",
+
+			"textPosition":  "CENTER",
+
+			"text":  "**FOOTER**",
+
+			"font":  "t-heading-1"
+
+		}
+
+	}
+
 }
 
   
@@ -78,5 +99,5 @@ servicedesk@hiplatform.com
 
 **Pronto!**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTU4NjQ0LDEyNzI5NDU1MTRdfQ==
+eyJoaXN0b3J5IjpbLTE0OTc5NTA1NzIsMTI3Mjk0NTUxNF19
 -->
