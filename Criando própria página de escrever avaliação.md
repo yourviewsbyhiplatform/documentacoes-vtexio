@@ -29,7 +29,8 @@ O próximo passo é criar uma rota dedicada para a página de "escrever avaliaç
 ## Terceiro passo: Envolver o formulário com o header e o footer do seu site
 
 
+![Instalação do bloco Exemplo](https://i.imgur.com/XwTaPFj.png)
 **Pronto!**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTkzMDE0MDY3LDEyNzI5NDU1MTRdfQ==
+eyJoaXN0b3J5IjpbMzYwMzIzNDI1LDEyNzI5NDU1MTRdfQ==
 -->
