@@ -22,10 +22,10 @@ Certifique-se de seguir a estrutura abaixo como exemplo:
 
 ```
 Isso garantirá que o formulário será carregado.
-## Primeiro Passo: Criação do JSON do Bloco de Formulário
+## Segundo passo: Criar rota
 O próximo passo é criar uma rota dedicada para a página de "escrever avaliação". Essa rota será adicionada ao arquivo JSON de rotas (```routes.json```) do repositório da loja, permitindo que os clientes acessem a página de avaliação diretamente.
   
-
+![Instalação do bloco Exemplo](https://i.imgur.com/4Trl5pf.png)
 ## Requisitos  
 
 Existem alguns passos muito importantes a serem seguidos antes de efetuar a inserção dos componentes da yourviews no tema da sua loja.    
@@ -61,5 +61,5 @@ servicedesk@hiplatform.com
 
 **Pronto!**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNjkzNzcwLDEyNzI5NDU1MTRdfQ==
+eyJoaXN0b3J5IjpbLTk0ODk0MzcxOCwxMjcyOTQ1NTE0XX0=
 -->
