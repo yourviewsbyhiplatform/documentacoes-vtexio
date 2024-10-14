@@ -3,11 +3,7 @@
 
 # Como criar sua própria página de Write Review na VTEXIO
   
-No processo de instalação da sua loja, ou quando necessário, é possível solicitar ao time de suporte da Hi Platform para ativar ou desativar o modo de testes da sua loja yourviews, isso faz com que o app da vtexio não apresente nenhum elemento sem antes passar um parâmentro da URL.
 
-Pode ser muito útil em diversas ocasiões.
-
-Usamos esse modo para evitar que os elementos sejam exibidos de maneira quebrada enquanto a loja personaliza os elementos mesmo que o app esteja instalado em produção.
   
 
 ## Requisitos  
@@ -45,5 +41,5 @@ servicedesk@hiplatform.com
 
 **Pronto!**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3Mjk0NTUxNF19
+eyJoaXN0b3J5IjpbMjg4NTY1MTk3LDEyNzI5NDU1MTRdfQ==
 -->
