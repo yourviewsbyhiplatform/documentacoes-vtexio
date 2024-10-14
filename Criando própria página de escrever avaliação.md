@@ -42,12 +42,13 @@ Para envolver o formulário com o header e o footer, o cliente deve abrir novame
 
 
 ![Instalação do bloco Exemplo](https://i.imgur.com/XwTaPFj.png)
-#### Obs: é possível adicionar outros componetes, caso desejar. 
+#### Obs: 
+o cliente tem total liberdade para adicionar outros componentes à página.
 
 ### Por fim, temos o resultado
 ![Instalação do bloco Exemplo](https://i.imgur.com/UM4XNu7.png)
 **Pronto!**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDYwNTIzMDIsLTIwNjY5NzMyNTcsLT
-E3Mzg3ODUwODksMzYwMzIzNDI1LDEyNzI5NDU1MTRdfQ==
+eyJoaXN0b3J5IjpbLTkxNDAwMzk5OSwtMjA2Njk3MzI1NywtMT
+czODc4NTA4OSwzNjAzMjM0MjUsMTI3Mjk0NTUxNF19
 -->
