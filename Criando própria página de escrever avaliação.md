@@ -23,7 +23,7 @@ Certifique-se de seguir a estrutura abaixo como exemplo:
 ```
 Isso garantirá que o formulário será carregado.
 ## Primeiro Passo: Criação do JSON do Bloco de Formulário
-
+O próximo passo é criar uma rota dedicada para a página de "escrever avaliação". Essa rota será adicionada ao arquivo JSON de rotas (```routes.json```) do repositório da loja, permitindo que os clientes acessem a página de avaliação diretamente.
   
 
 ## Requisitos  
@@ -61,5 +61,5 @@ servicedesk@hiplatform.com
 
 **Pronto!**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODQ3NTU4NSwxMjcyOTQ1NTE0XX0=
+eyJoaXN0b3J5IjpbMTczNjkzNzcwLDEyNzI5NDU1MTRdfQ==
 -->
