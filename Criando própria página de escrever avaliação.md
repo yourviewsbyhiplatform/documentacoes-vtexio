@@ -3,6 +3,43 @@
 
 # Como criar sua própria página de Write Review na VTEXIO
   
+## Primeiro Passo: Criação do JSON do Bloco de Formulário
+
+O primeiro passo para integrar o bloco de formulário no repositório da loja do cliente é criar o arquivo JSON que servirá como estrutura do formulário.
+![Instalação do bloco Exemplo](https://imgur.com/NUS4JYT.png)
+
+### Estrutura do JSON
+Certifique-se de seguir a estrutura abaixo como exemplo:
+
+```json
+{
+  "formBlock": {
+    "title": "Formulário de Contato",
+    "fields": [
+      {
+        "label": "Nome",
+        "type": "text",
+        "placeholder": "Insira seu nome",
+        "required": true
+      },
+      {
+        "label": "Email",
+        "type": "email",
+        "placeholder": "Insira seu email",
+        "required": true
+      },
+      {
+        "label": "Mensagem",
+        "type": "textarea",
+        "placeholder": "Digite sua mensagem",
+        "required": true
+      }
+    ],
+    "submitButton": {
+      "text": "Enviar"
+    }
+  }
+}
 
   
 
@@ -41,5 +78,5 @@ servicedesk@hiplatform.com
 
 **Pronto!**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg4NTY1MTk3LDEyNzI5NDU1MTRdfQ==
+eyJoaXN0b3J5IjpbMTUwOTU4NjQ0LDEyNzI5NDU1MTRdfQ==
 -->
