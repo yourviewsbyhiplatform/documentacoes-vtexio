@@ -2,6 +2,8 @@
 
 
 # Como criar sua própria página de Write Review na VTEXIO
+
+
   
 ## Primeiro Passo: Criação do JSON do Bloco de Formulário
 
@@ -39,9 +41,10 @@ Para envolver o formulário com o header e o footer, o cliente deve abrir novame
 
 ![Instalação do bloco Exemplo](https://i.imgur.com/XwTaPFj.png)
 
-### 
+### Por fim, temos o resultado
+![Instalação do bloco Exemplo](https://i.imgur.com/UM4XNu7.png)
 **Pronto!**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDY3OTc3MzYsMzYwMzIzNDI1LDEyNz
+eyJoaXN0b3J5IjpbLTE3Mzg3ODUwODksMzYwMzIzNDI1LDEyNz
 I5NDU1MTRdfQ==
 -->
