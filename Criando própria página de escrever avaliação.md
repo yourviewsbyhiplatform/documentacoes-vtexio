@@ -13,55 +13,15 @@ Certifique-se de seguir a estrutura abaixo como exemplo:
 
 ```json
 {
-
-"store.custom#write-review": {
-
-	"blocks": [
-
-		"rich-text#yv-header",
-
-		"yv-product-review-form",
-
-		"rich-text#yv-footer"
-
-	]
-
-},
-
-"rich-text#yv-header": {
-
-	"props": {
-
-		"textAlignment":  "CENTER",
-
-		"textPosition":  "CENTER",
-
-		"text":  "**HEADER**",
-
-		"font":  "t-heading-1"
-
-	}
-
-},
-
-	"rich-text#yv-footer": {
-
-		"props": {
-
-			"textAlignment":  "CENTER",
-
-			"textPosition":  "CENTER",
-
-			"text":  "**FOOTER**",
-
-			"font":  "t-heading-1"
-
-		}
-
-	}
-
+	"store.custom#write-review": {
+		"blocks": [
+			"yv-product-review-form",
+		]
+	},
 }
 
+```
+Isso garantirá que 
   
 
 ## Requisitos  
@@ -99,5 +59,5 @@ servicedesk@hiplatform.com
 
 **Pronto!**  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTc5NTA1NzIsMTI3Mjk0NTUxNF19
+eyJoaXN0b3J5IjpbLTU4ODc4NTQ4MiwxMjcyOTQ1NTE0XX0=
 -->
