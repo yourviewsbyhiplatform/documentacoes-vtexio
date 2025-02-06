@@ -33,8 +33,11 @@ Ao seguir estes passos, você estará preparado para instalar e configurar o blo
 ### Finalização
 **Pronto!**
 
-O bloco de perguntas e respostas foi instalado com sucesso!
+O bloco de reviews foi instalado com sucesso!
+
+![](https://i.imgur.com/5eF7QGZ.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNjA0MzM3LC03MTk1NjQ2MzZdfQ==
+eyJoaXN0b3J5IjpbNTI5NzY0ODQ2LDE5MzYwNDMzNywtNzE5NT
+Y0NjM2XX0=
 -->
