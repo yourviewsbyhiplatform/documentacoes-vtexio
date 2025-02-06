@@ -33,6 +33,9 @@ Ao seguir estes passos, você estará preparado para instalar e configurar o blo
 **Pronto!**
 
 O bloco de perguntas e respostas foi instalado com sucesso!
+
+![](https://i.imgur.com/wncw9Pb.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTc3NjE5Nyw4NzM5MTA2OTRdfQ==
+eyJoaXN0b3J5IjpbNjg0NDY0MDYyLDEzNDE3NzYxOTcsODczOT
+EwNjk0XX0=
 -->
