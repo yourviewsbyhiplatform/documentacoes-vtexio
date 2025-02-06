@@ -16,7 +16,7 @@ O bloco de testemunhos é geralmente inserido no bloco pai da VTEX **store.home*
 
     "yv-testimonials"
 
-![Instalação do bloco Exemplo](v)
+![Instalação do bloco Exemplo](https://yv-misc.s3.us-east-1.amazonaws.com/help/yv-help-docs/80%20-%20Tetsimonials.png)
 
 Embora o bloco de testemunhos seja comumente inserido na página inicial isso não quer dizer que você obrigatoriamente deverá inseri-lo na página home do site, é apenas o usual. Fique a vontade para incluir o componente onde quiser.
 
@@ -39,5 +39,6 @@ O bloco dos testemunhos foi instalado com sucesso!
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNjcyNzUwNSwtMTM3Mzg2Nzc0OV19
+eyJoaXN0b3J5IjpbLTEwMzQ0MzExNDksLTEzNzM4Njc3NDldfQ
+==
 -->
