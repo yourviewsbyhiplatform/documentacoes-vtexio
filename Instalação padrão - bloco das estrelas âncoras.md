@@ -34,5 +34,5 @@ O bloco das estrelas âncora foi instalado com sucesso!
 ![Instalação do bloco Exemplo](https://i.imgur.com/Qhazjwz.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NDI5NzA4M119
+eyJoaXN0b3J5IjpbLTE4MzA4MDQ0NDUsLTI2NDI5NzA4M119
 -->
