@@ -24,7 +24,7 @@ O bloco `yv-product-questions-and-answers` é normalmente posicionado no bloco p
 "yv-product-questions-and-answers"
 ```
 
-![Instalação do bloco Exemplo](https://imgur.com/NUS4JYT.png)
+![Instalação do bloco Exemplo](https://yv-misc.s3.us-east-1.amazonaws.com/help/yv-help-docs/78%20-%20QA.png)
 
 ### Personalização do bloco
 
@@ -82,5 +82,5 @@ Nenhuma
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxOTIxMDE4XX0=
+eyJoaXN0b3J5IjpbMTk3OTIyMDIyMiw0MjE5MjEwMThdfQ==
 -->
