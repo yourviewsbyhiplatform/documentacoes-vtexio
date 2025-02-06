@@ -24,7 +24,7 @@ O bloco yv-product-rating-summary é normalmente inserido no bloco pai store.pro
 "yv-product-rating-summary"
 ```
 
-![Instalação do bloco Exemplo](https://i.imgur.com/48VoM5p.png)
+![Instalação do bloco Exemplo](https://yv-misc.s3.us-east-1.amazonaws.com/help/yv-help-docs/77%20-%20productSummary.png)
 
 ### Personalização do bloco
 
@@ -77,5 +77,5 @@ O bloco das estrelas de ancoragem não recebe nenhuma propriedade diretamente
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4OTI4MDA1OF19
+eyJoaXN0b3J5IjpbMjAyMTAwOTUwMSwxNzg5MjgwMDU4XX0=
 -->
