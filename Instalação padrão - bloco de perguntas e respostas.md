@@ -18,7 +18,7 @@ Ao seguir estes passos, você estará preparado para instalar e configurar o blo
 
     "yv-product-questions-and-answers"
     
-![Instalação do bloco Exemplo](https://imgur.com/NUS4JYT.png)
+![Instalação do bloco Exemplo](https://yv-misc.s3.us-east-1.amazonaws.com/help/yv-help-docs/78%20-%20QA.png)
 ### Exemplo
 ```diff
 // product.jsonc
@@ -33,7 +33,6 @@ Ao seguir estes passos, você estará preparado para instalar e configurar o blo
 **Pronto!**
 
 O bloco de perguntas e respostas foi instalado com sucesso!
-![Instalação do bloco Exemplo](https://imgur.com/8ImokcO.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODczOTEwNjk0XX0=
+eyJoaXN0b3J5IjpbMTM0MTc3NjE5Nyw4NzM5MTA2OTRdfQ==
 -->
