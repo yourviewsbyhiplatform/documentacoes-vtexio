@@ -24,7 +24,7 @@ O bloco `yv-product-reviews` é normalmente posicionado no bloco pai **store.pro
 "yv-product-reviews"
 ```
 
-![Instalação do bloco Exemplo](https://imgur.com/FlrF78A.png)
+![Instalação do bloco Exemplo](https://yv-misc.s3.us-east-1.amazonaws.com/help/yv-help-docs/79%20-%20Reviews.png)
 
 ### Personalização do bloco
 
@@ -93,5 +93,5 @@ O bloco de reviews aceita alguns blocos filhos, são eles:
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyOTczODQ2MV19
+eyJoaXN0b3J5IjpbLTE0NjM3OTQwODQsMTgyOTczODQ2MV19
 -->
