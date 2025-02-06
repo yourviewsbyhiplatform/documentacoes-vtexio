@@ -24,7 +24,7 @@ O bloco de testemunhos é geralmente inserido no código fonte do app tema da su
 "yv-testimonials"
 ```
 
-![Instalação do bloco Exemplo](https://i.imgur.com/9D2gnoQ.png)
+![Instalação do bloco Exemplo](https://yv-misc.s3.us-east-1.amazonaws.com/help/yv-help-docs/80%20-%20Tetsimonials.png)
 
 Embora o bloco de testemunhos seja comumente inserido na página inicial isso não quer dizer que você obrigatoriamente deverá inseri-lo na página home do site, é apenas o usual. Fique a vontade para incluir o componente onde quiser.
 
@@ -93,5 +93,5 @@ A propriedade `slidesToShow` recebe um quatro informações, que especificam qua
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MTQyODI5MF19
+eyJoaXN0b3J5IjpbOTE0ODcyNzMzLDE2NDE0MjgyOTBdfQ==
 -->
