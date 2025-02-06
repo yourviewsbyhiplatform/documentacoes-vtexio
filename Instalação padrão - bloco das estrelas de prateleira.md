@@ -16,7 +16,7 @@ Ao seguir estes passos, você estará preparado para instalar e configurar o blo
  
 
     “yv-product-rating-inline”
-![Instalação do bloco Exemplo](https://i.imgur.com/JM8IKqI.png)
+![Instalação do bloco Exemplo](https://yv-misc.s3.us-east-1.amazonaws.com/help/yv-help-docs/76%20-%20productSummary.png)
 ### Exemplo
 ```diff
 // product-summary.jsonc
@@ -39,7 +39,6 @@ Ao seguir estes passos, você estará preparado para instalar e configurar o blo
 **Pronto!**
 
 O bloco das estrelas de prateleira foi instalado com sucesso!
-![Instalação do bloco Exemplo](https://imgur.com/7LVKo8H.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MzgyMjk4M119
+eyJoaXN0b3J5IjpbMTQ0NDM4NzMwNywtOTUzODIyOTgzXX0=
 -->
