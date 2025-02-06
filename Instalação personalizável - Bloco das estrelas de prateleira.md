@@ -24,7 +24,7 @@ Normalmente, o bloco `yv-product-rating-inline` é inserido no bloco pai **produ
 "yv-product-rating-inline"
 ```
 
-![Instalação do bloco Exemplo](https://i.imgur.com/JM8IKqI.png)
+![Instalação do bloco Exemplo](https://yv-misc.s3.us-east-1.amazonaws.com/help/yv-help-docs/76%20-%20productSummary.png)
 
 ### Personalização do bloco
 
@@ -78,5 +78,5 @@ O bloco das estrelas de prateleira não recebe nenhuma propriedade diretamente
 
 **Pronto!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI1NTYwNTExXX0=
+eyJoaXN0b3J5IjpbODI1ODY2NzU3LDQyNTU2MDUxMV19
 -->
