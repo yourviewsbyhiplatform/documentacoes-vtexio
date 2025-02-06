@@ -37,8 +37,10 @@ Embora o bloco de testemunhos seja comumente inserido na p√°gina inicial isso n√
 
 O bloco dos testemunhos foi instalado com sucesso!
 
+![](https://i.imgur.com/As4ZBwO.png)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzQ0MzExNDksLTEzNzM4Njc3NDldfQ
-==
+eyJoaXN0b3J5IjpbLTE4NDExNzIwMiwtMTAzNDQzMTE0OSwtMT
+M3Mzg2Nzc0OV19
 -->
