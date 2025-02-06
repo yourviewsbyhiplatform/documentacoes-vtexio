@@ -18,7 +18,7 @@ Ao seguir estes passos, você estará preparado para instalar e configurar o blo
 
     "yv-product-reviews"
     
-![Instalação do bloco Exemplo](https://imgur.com/FlrF78A.png)
+![Instalação do bloco Exemplo](https://yv-misc.s3.us-east-1.amazonaws.com/help/yv-help-docs/79%20-%20Reviews.png)
 ### Exemplo
 ```diff
 // product.jsonc
@@ -34,10 +34,7 @@ Ao seguir estes passos, você estará preparado para instalar e configurar o blo
 **Pronto!**
 
 O bloco de perguntas e respostas foi instalado com sucesso!
-#### Listagem de avaliações
-![Instalação do bloco Exemplo](https://imgur.com/OI83A3S.png)
-#### Formulário de escrever avaliação
-![Instalação do bloco Exemplo](https://imgur.com/1Bmza3V.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxOTU2NDYzNl19
+eyJoaXN0b3J5IjpbMTkzNjA0MzM3LC03MTk1NjQ2MzZdfQ==
 -->
